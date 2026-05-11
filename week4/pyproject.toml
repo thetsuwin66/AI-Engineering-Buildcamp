@@ -1,0 +1,16 @@
+[project]
+name = "week4"
+version = "0.1.0"
+description = "SQL agent with DuckDB and PydanticAI"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "duckdb>=1.5.2",
+    "pydantic-ai>=1.93.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.24",
+]
