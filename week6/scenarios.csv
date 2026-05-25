@@ -1,0 +1,31 @@
+question,category,type
+How do I make spaghetti carbonara?,specific-recipe,direct
+What can I cook with chicken and coconut milk?,ingredient-search,ingredient-based
+I want something easy and healthy for dinner,preference,vague
+How do I make sushi?,missing-recipe,not-in-collection
+What temperature should I set my oven to for the lava cake?,recipe-detail,specific
+Can I use bacon instead of guanciale in carbonara?,substitution,specific
+Can I substitute almond milk in the pancakes?,substitution,specific
+Is the Caesar salad vegetarian?,dietary,specific
+Can I make the falafel with canned chickpeas?,edge-case,specific
+What's the best restaurant in town?,out-of-scope,irrelevant
+How do I fix my dishwasher?,out-of-scope,irrelevant
+How many calories are in the chicken tikka masala?,missing-info,nutrition
+How do I make ramen?,missing-recipe,not-in-collection
+I want pasta,preference,vague
+What Italian dishes do you have?,collection-query,cuisine-based
+Is the mushroom risotto vegan?,dietary,specific
+How long does it take to make mushroom risotto?,recipe-detail,timing
+What's the easiest recipe you have?,preference,difficulty-based
+Can I use dried basil instead of fresh basil for the pizza?,substitution,specific
+What can I make that's vegetarian?,preference,dietary
+What Greek dishes do you have?,collection-query,cuisine-based
+How do I make beef tacos?,specific-recipe,direct
+What recipes use coconut milk?,ingredient-search,ingredient-based
+Can I replace fish sauce with soy sauce in the Thai green curry?,substitution,specific
+What's the shelf life of leftover falafel?,missing-info,storage
+How do I make chocolate mousse?,missing-recipe,not-in-collection
+Which recipes are suitable for beginners?,preference,difficulty-based
+What Middle Eastern dishes do you have?,collection-query,cuisine-based
+How much flour do I need for the banana pancakes?,recipe-detail,specific
+Does the Greek salad have any dairy?,dietary,specific

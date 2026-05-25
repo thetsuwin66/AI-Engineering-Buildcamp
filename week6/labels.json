@@ -1,0 +1,122 @@
+{
+  "How do I make spaghetti carbonara?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "What can I cook with chicken and coconut milk?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "I want something easy and healthy for dinner": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "How do I make sushi?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "What temperature should I set my oven to for the lava cake?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "Can I use bacon instead of guanciale in carbonara?": {
+    "label": "bad",
+    "failure_note": "hallucination"
+  },
+  "Can I substitute almond milk in the pancakes?": {
+    "label": "bad",
+    "failure_note": "hallucination"
+  },
+  "Is the Caesar salad vegetarian?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "Can I make the falafel with canned chickpeas?": {
+    "label": "bad",
+    "failure_note": "contradicted recipe (recipe says do not use canned)"
+  },
+  "What's the best restaurant in town?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "How do I fix my dishwasher?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "How many calories are in the chicken tikka masala?": {
+    "label": "bad",
+    "failure_note": "hallucination"
+  },
+  "How do I make ramen?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "I want pasta": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "What Italian dishes do you have?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "Is the mushroom risotto vegan?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "How long does it take to make mushroom risotto?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "What's the easiest recipe you have?": {
+    "label": "bad",
+    "failure_note": "wrong-scope (said no easy recipes when they exist)"
+  },
+  "Can I use dried basil instead of fresh basil for the pizza?": {
+    "label": "bad",
+    "failure_note": "hallucination"
+  },
+  "What can I make that's vegetarian?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "What Greek dishes do you have?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "How do I make beef tacos?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "What recipes use coconut milk?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "Can I replace fish sauce with soy sauce in the Thai green curry?": {
+    "label": "bad",
+    "failure_note": "hallucination"
+  },
+  "What's the shelf life of leftover falafel?": {
+    "label": "bad",
+    "failure_note": "hallucination"
+  },
+  "How do I make chocolate mousse?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "Which recipes are suitable for beginners?": {
+    "label": "bad",
+    "failure_note": "wrong-scope (said no difficulty labels when they exist)"
+  },
+  "What Middle Eastern dishes do you have?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "How much flour do I need for the banana pancakes?": {
+    "label": "good",
+    "failure_note": ""
+  },
+  "Does the Greek salad have any dairy?": {
+    "label": "good",
+    "failure_note": ""
+  }
+}

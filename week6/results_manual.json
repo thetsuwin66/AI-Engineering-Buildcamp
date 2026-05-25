@@ -1,0 +1,392 @@
+[
+  {
+    "question": "How do I make spaghetti carbonara?",
+    "category": "specific-recipe",
+    "type": "direct",
+    "output": "Here's how to make Spaghetti Carbonara:\n\n### Ingredients:\n- Spaghetti\n- Guanciale\n- Egg yolks\n- Pecorino Romano cheese\n- Black pepper\n- Salt\n\n### Instructions:\n1. Cook the spaghetti in salted water according to package directions until al dente.\n2. In a separate pan, crisp the guanciale over medium heat until it's golden and crispy.\n3. In a bowl, whisk together the egg yolks, grated Pecorino Romano cheese, and black pepper.\n4. Once the pasta is cooked, reserve some of the pasta water and then drain the spaghetti.\n5. Toss the hot pasta with the crispy guanciale, ensuring it gets well coated.\n6. Quickly stir in the egg mixture off the heat to create a creamy sauce, adding reserved pasta water as needed to achieve the desired consistency.\n7. Serve immediately with additional grated Pecorino Romano on top.\n\nEnjoy your meal!",
+    "execution_time": 8.42,
+    "tokens": {
+      "input_tokens": 1036,
+      "output_tokens": 225,
+      "total_tokens": 1261
+    },
+    "cost": 0.00029
+  },
+  {
+    "question": "What can I cook with chicken and coconut milk?",
+    "category": "ingredient-search",
+    "type": "ingredient-based",
+    "output": "You can make **Thai Green Curry** with chicken and coconut milk. Here's the recipe:\n\n### Thai Green Curry\n- **Cuisine:** Thai\n- **Difficulty:** Medium\n- **Prep Time:** 20 minutes\n- **Cook Time:** 25 minutes\n- **Servings:** 4\n\n#### Ingredients:\n- Chicken thigh\n- Coconut milk\n- Green curry paste\n- Bamboo shoots\n- Thai basil\n- Fish sauce\n- Palm sugar\n- Eggplant\n- Bell pepper\n- Jasmine rice\n\n#### Instructions:\n1. Heat coconut cream in a wok until the oil separates.\n2. Fry the curry paste for 2 minutes.\n3. Add sliced chicken and cook until sealed.\n4. Pour in the coconut milk and bring to a simmer.\n5. Add eggplant and bamboo shoots, cooking for 10 minutes.\n6. Season with fish sauce and palm sugar.\n7. Add bell pepper and Thai basil.\n8. Serve over jasmine rice.\n\nThis dish is spicy and has a delicious coconut flavor! If you're looking for something different, let me know!",
+    "execution_time": 8.07,
+    "tokens": {
+      "input_tokens": 1361,
+      "output_tokens": 253,
+      "total_tokens": 1614
+    },
+    "cost": 0.000356
+  },
+  {
+    "question": "I want something easy and healthy for dinner",
+    "category": "preference",
+    "type": "vague",
+    "output": "Here are some easy and healthy dinner options for you:\n\n### 1. Vegetable Stir Fry\n- **Cuisine:** Chinese\n- **Prep Time:** 15 minutes\n- **Cook Time:** 10 minutes\n- **Servings:** 3\n- **Ingredients:**\n  - Broccoli\n  - Bell pepper\n  - Carrot\n  - Snap peas\n  - Soy sauce\n  - Sesame oil\n  - Garlic\n  - Ginger\n  - Cornstarch\n  - Rice\n- **Instructions:**\n  1. Cut all vegetables into bite-sized pieces.\n  2. Heat sesame oil in a wok over high heat. \n  3. Add garlic and ginger, stir for 30 seconds.\n  4. Add vegetables, starting with carrots and broccoli, then softer vegetables.\n  5. Stir in soy sauce and cornstarch slurry. Cook until sauce thickens.\n  6. Serve over rice.\n\n### 2. Miso Soup\n- **Cuisine:** Japanese\n- **Prep Time:** 5 minutes\n- **Cook Time:** 10 minutes\n- **Servings:** 4\n- **Ingredients:**\n  - Dashi stock\n  - White miso paste\n  - Silken tofu\n  - Wakame seaweed\n  - Green onion\n- **Instructions:**\n  1. Bring dashi stock to a gentle simmer.\n  2. Add cubed tofu and rehydrated wakame.\n  3. Ladle some broth into a bowl, dissolve miso paste in it, then pour back into the pot. Do not boil after adding miso.\n  4. Serve topped with sliced green onion.\n\n### 3. Greek Salad\n- **Cuisine:** Greek\n- **Prep Time:** 10 minutes\n- **Cook Time:** 0 minutes\n- **Servings:** 4\n- **Ingredients:**\n  - Cucumber\n  - Tomato\n  - Red onion\n  - Kalamata olives\n  - Feta cheese\n  - Olive oil\n  - Oregano\n  - Red wine vinegar\n- **Instructions:**\n  1. Chop cucumber, tomatoes, and red onion into chunks.\n  2. Combine in a bowl with Kalamata olives and crumbled feta.\n  3. Dress with olive oil, red wine vinegar, and oregano.\n  4. Toss gently and let sit for 5 minutes before serving.\n\nFeel free to choose any of these recipes for a healthy dinner!",
+    "execution_time": 14.23,
+    "tokens": {
+      "input_tokens": 1658,
+      "output_tokens": 597,
+      "total_tokens": 2255
+    },
+    "cost": 0.000607
+  },
+  {
+    "question": "How do I make sushi?",
+    "category": "missing-recipe",
+    "type": "not-in-collection",
+    "output": "I'm sorry, but I don't have a specific recipe for sushi in my collection. However, I can suggest looking for recipes that include ingredients commonly used in sushi, such as rice, fish, vegetables, and seaweed. If you\u2019d like, I can help you find recipes for any of those individual components!",
+    "execution_time": 3.46,
+    "tokens": {
+      "input_tokens": 492,
+      "output_tokens": 79,
+      "total_tokens": 571
+    },
+    "cost": 0.000121
+  },
+  {
+    "question": "What temperature should I set my oven to for the lava cake?",
+    "category": "recipe-detail",
+    "type": "specific",
+    "output": "For the Chocolate Lava Cake, you should set your oven to **425\u00b0F**. Bake the cakes for exactly 12-14 minutes. Enjoy your cooking!",
+    "execution_time": 5.45,
+    "tokens": {
+      "input_tokens": 1035,
+      "output_tokens": 64,
+      "total_tokens": 1099
+    },
+    "cost": 0.000194
+  },
+  {
+    "question": "Can I use bacon instead of guanciale in carbonara?",
+    "category": "substitution",
+    "type": "specific",
+    "output": "Yes, you can use bacon instead of guanciale in carbonara. While guanciale is the traditional ingredient and offers a unique flavor to the dish, bacon can serve as a substitute and will still provide that savory, smoky taste. Just keep in mind that bacon may be a bit saltier and have a different texture, so you might want to adjust the seasoning in your carbonara accordingly.",
+    "execution_time": 3.02,
+    "tokens": {
+      "input_tokens": 237,
+      "output_tokens": 81,
+      "total_tokens": 318
+    },
+    "cost": 8.4e-05
+  },
+  {
+    "question": "Can I substitute almond milk in the pancakes?",
+    "category": "substitution",
+    "type": "specific",
+    "output": "I don't have specific recipes that mention using almond milk for pancakes. However, almond milk can generally be used as a substitute for regular milk in pancake recipes. Just ensure that the almond milk is unsweetened if you don't want to alter the sweetness of the pancakes. If you need a pancake recipe, I can find one for you!",
+    "execution_time": 2.36,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 68,
+      "total_tokens": 301
+    },
+    "cost": 7.6e-05
+  },
+  {
+    "question": "Is the Caesar salad vegetarian?",
+    "category": "dietary",
+    "type": "specific",
+    "output": "A traditional Caesar salad is not vegetarian because it typically contains anchovies in the dressing and often includes Parmesan cheese, which may be made with animal rennet. However, vegetarian versions can be made by omitting the anchovies and using a vegetarian Parmesan or a different cheese. If you need a specific recipe for a vegetarian Caesar salad, I can help with that!",
+    "execution_time": 2.3,
+    "tokens": {
+      "input_tokens": 230,
+      "output_tokens": 73,
+      "total_tokens": 303
+    },
+    "cost": 7.8e-05
+  },
+  {
+    "question": "Can I make the falafel with canned chickpeas?",
+    "category": "edge-case",
+    "type": "specific",
+    "output": "I don't have a specific falafel recipe in my collection to confirm this, but generally, many falafel recipes do allow for canned chickpeas as a substitute for dried chickpeas. Using canned chickpeas can make the preparation easier and quicker, though the texture might be slightly different. \n\nIf you're looking for a specific falafel recipe, let me know, and I can help you find one!",
+    "execution_time": 3.68,
+    "tokens": {
+      "input_tokens": 235,
+      "output_tokens": 80,
+      "total_tokens": 315
+    },
+    "cost": 8.3e-05
+  },
+  {
+    "question": "What's the best restaurant in town?",
+    "category": "out-of-scope",
+    "type": "irrelevant",
+    "output": "I'm here to help you find recipes and answer cooking questions, but I don't have information about restaurants. If you're looking for recipe ideas or cooking tips, feel free to ask!",
+    "execution_time": 1.48,
+    "tokens": {
+      "input_tokens": 231,
+      "output_tokens": 36,
+      "total_tokens": 267
+    },
+    "cost": 5.6e-05
+  },
+  {
+    "question": "How do I fix my dishwasher?",
+    "category": "out-of-scope",
+    "type": "irrelevant",
+    "output": "I'm here to help with recipes and cooking questions. If you have cooking-related inquiries or need recipes, feel free to ask!",
+    "execution_time": 1.41,
+    "tokens": {
+      "input_tokens": 231,
+      "output_tokens": 26,
+      "total_tokens": 257
+    },
+    "cost": 5e-05
+  },
+  {
+    "question": "How many calories are in the chicken tikka masala?",
+    "category": "missing-info",
+    "type": "nutrition",
+    "output": "The Chicken Tikka Masala recipe I found does not specify the exact calorie count. However, it's typically made with ingredients such as chicken breast, yogurt, heavy cream, and spices. \n\nTo give a rough estimate, a serving of Chicken Tikka Masala generally contains around 300-500 calories, depending on the amount of cream used and the serving size. \n\nIf you need a detailed calorie count, it would be best to calculate it based on the specific quantities of the ingredients used. Would you like any other information about the recipe?",
+    "execution_time": 5.6,
+    "tokens": {
+      "input_tokens": 1238,
+      "output_tokens": 145,
+      "total_tokens": 1383
+    },
+    "cost": 0.000273
+  },
+  {
+    "question": "How do I make ramen?",
+    "category": "missing-recipe",
+    "type": "not-in-collection",
+    "output": "I'm sorry, but I don't have a specific ramen recipe in my collection. If you're looking for something similar, I can help you find other noodle dishes or soups. Would you like that?",
+    "execution_time": 3.07,
+    "tokens": {
+      "input_tokens": 492,
+      "output_tokens": 55,
+      "total_tokens": 547
+    },
+    "cost": 0.000107
+  },
+  {
+    "question": "I want pasta",
+    "category": "preference",
+    "type": "vague",
+    "output": "Here's a delicious recipe for **Spaghetti Carbonara**:\n\n### Ingredients:\n- Spaghetti\n- Guanciale\n- Egg yolks\n- Pecorino Romano cheese\n- Black pepper\n- Salt\n\n### Instructions:\n1. **Cook the Spaghetti**: Boil spaghetti in salted water until al dente.\n2. **Crisp the Guanciale**: In a pan, cook the guanciale until crispy.\n3. **Prepare the Egg Mixture**: In a bowl, whisk together the egg yolks, grated pecorino romano, and black pepper.\n4. **Combine Ingredients**: Drain the pasta, reserving some of the cooking water. Toss the hot pasta with the crispy guanciale.\n5. **Add the Egg Mixture**: Remove the pan from heat and quickly stir in the egg mixture, adding the reserved pasta water as needed to create a creamy sauce.\n6. **Serve**: Serve immediately, topped with extra pecorino romano cheese.\n\n### Additional Information:\n- **Cuisine**: Italian\n- **Prep Time**: 10 minutes\n- **Cook Time**: 20 minutes\n- **Servings**: 4\n\nEnjoy your meal! If you have any other cooking questions or need more recipes, feel free to ask!",
+    "execution_time": 9.7,
+    "tokens": {
+      "input_tokens": 1017,
+      "output_tokens": 298,
+      "total_tokens": 1315
+    },
+    "cost": 0.000331
+  },
+  {
+    "question": "What Italian dishes do you have?",
+    "category": "collection-query",
+    "type": "cuisine-based",
+    "output": "Here are some Italian dishes that I have:\n\n1. **Classic Margherita Pizza**\n   - Prep Time: 20 minutes\n   - Cook Time: 15 minutes\n   - Serves: 4\n   - Ingredients: pizza dough, San Marzano tomatoes, fresh mozzarella, fresh basil, olive oil, salt\n   - Tags: vegetarian, classic\n\n2. **Spaghetti Carbonara**\n   - Prep Time: 10 minutes\n   - Cook Time: 20 minutes\n   - Serves: 4\n   - Ingredients: spaghetti, guanciale, egg yolks, pecorino romano, black pepper, salt\n   - Tags: classic, pasta\n\n3. **Mushroom Risotto**\n   - Prep Time: 10 minutes\n   - Cook Time: 35 minutes\n   - Serves: 4\n   - Ingredients: arborio rice, mixed mushrooms, onion, garlic, white wine, vegetable broth, parmesan cheese, butter, olive oil, thyme\n   - Tags: vegetarian, comfort-food\n\nIf you would like more details on any of these recipes, just let me know!",
+    "execution_time": 8.53,
+    "tokens": {
+      "input_tokens": 1088,
+      "output_tokens": 270,
+      "total_tokens": 1358
+    },
+    "cost": 0.000325
+  },
+  {
+    "question": "Is the mushroom risotto vegan?",
+    "category": "dietary",
+    "type": "specific",
+    "output": "The mushroom risotto recipe I found contains parmesan cheese and butter, which are not vegan ingredients. Therefore, this mushroom risotto is not vegan. \n\nIf you are looking for a vegan version, consider substituting the parmesan cheese with a vegan cheese alternative and using olive oil instead of butter. Would you like help finding a vegan risotto recipe?",
+    "execution_time": 4.49,
+    "tokens": {
+      "input_tokens": 558,
+      "output_tokens": 89,
+      "total_tokens": 647
+    },
+    "cost": 0.000137
+  },
+  {
+    "question": "How long does it take to make mushroom risotto?",
+    "category": "recipe-detail",
+    "type": "timing",
+    "output": "Making mushroom risotto takes about 10 minutes to prep and 35 minutes to cook, totaling around 45 minutes. Would you like to see the full recipe?",
+    "execution_time": 2.57,
+    "tokens": {
+      "input_tokens": 566,
+      "output_tokens": 53,
+      "total_tokens": 619
+    },
+    "cost": 0.000117
+  },
+  {
+    "question": "What's the easiest recipe you have?",
+    "category": "preference",
+    "type": "difficulty-based",
+    "output": "I don't have any recipes specifically labeled as \"easy.\" However, I can help you find quick and simple recipes if you tell me what type of dish or ingredients you're interested in!",
+    "execution_time": 3.32,
+    "tokens": {
+      "input_tokens": 493,
+      "output_tokens": 52,
+      "total_tokens": 545
+    },
+    "cost": 0.000105
+  },
+  {
+    "question": "Can I use dried basil instead of fresh basil for the pizza?",
+    "category": "substitution",
+    "type": "specific",
+    "output": "Yes, you can use dried basil instead of fresh basil for pizza. Generally, the rule of thumb is to use about one third of the amount when substituting dried herbs for fresh. So if a recipe calls for 1 tablespoon of fresh basil, you can use about 1 teaspoon of dried basil. Just keep in mind that dried herbs can be more potent, so adjust according to your taste preference.",
+    "execution_time": 2.71,
+    "tokens": {
+      "input_tokens": 237,
+      "output_tokens": 82,
+      "total_tokens": 319
+    },
+    "cost": 8.5e-05
+  },
+  {
+    "question": "What can I make that's vegetarian?",
+    "category": "preference",
+    "type": "dietary",
+    "output": "Here are some vegetarian recipes you can make:\n\n1. **Classic Margherita Pizza**\n   - **Cuisine**: Italian\n   - **Prep Time**: 20 min\n   - **Cook Time**: 15 min\n   - **Serves**: 4\n   - **Ingredients**: Pizza dough, San Marzano tomatoes, fresh mozzarella, fresh basil, olive oil, salt.\n\n2. **Vegetable Stir Fry**\n   - **Cuisine**: Chinese\n   - **Prep Time**: 15 min\n   - **Cook Time**: 10 min\n   - **Serves**: 3\n   - **Ingredients**: Broccoli, bell pepper, carrot, snap peas, soy sauce, sesame oil, garlic, ginger, cornstarch, rice.\n\n3. **Mushroom Risotto**\n   - **Cuisine**: Italian\n   - **Prep Time**: 10 min\n   - **Cook Time**: 35 min\n   - **Serves**: 4\n   - **Ingredients**: Arborio rice, mixed mushrooms, onion, garlic, white wine, vegetable broth, parmesan cheese, butter, olive oil, thyme.\n\nWould you like the full details of any of these recipes?",
+    "execution_time": 8.56,
+    "tokens": {
+      "input_tokens": 686,
+      "output_tokens": 275,
+      "total_tokens": 961
+    },
+    "cost": 0.000268
+  },
+  {
+    "question": "What Greek dishes do you have?",
+    "category": "collection-query",
+    "type": "cuisine-based",
+    "output": "I have the following Greek dish available:\n\n### Greek Salad\n- **Prep Time:** 10 minutes\n- **Cook Time:** 0 minutes\n- **Servings:** 4\n\n#### Ingredients:\n- Cucumber\n- Tomato\n- Red onion\n- Kalamata olives\n- Feta cheese\n- Olive oil\n- Oregano\n- Red wine vinegar\n\n#### Tags:\n- Vegetarian\n- Salad\n- No-cook\n- Healthy\n\nIf you're interested, I can provide the full details and instructions for making it!",
+    "execution_time": 4.76,
+    "tokens": {
+      "input_tokens": 961,
+      "output_tokens": 140,
+      "total_tokens": 1101
+    },
+    "cost": 0.000228
+  },
+  {
+    "question": "How do I make beef tacos?",
+    "category": "specific-recipe",
+    "type": "direct",
+    "output": "Here's a simple recipe for Beef Tacos:\n\n### Ingredients:\n- Ground beef\n- Taco shells\n- Lettuce\n- Tomato\n- Cheddar cheese\n- Sour cream\n- Taco seasoning\n- Onion\n- Salsa\n\n### Instructions:\n1. **Brown the Meat**: In a skillet, brown the ground beef with diced onion until fully cooked.\n2. **Season**: Add taco seasoning and a bit of water to the beef. Simmer until the mixture thickens.\n3. **Warm the Taco Shells**: While the beef is cooking, warm the taco shells according to the package instructions.\n4. **Assemble**: Serve the seasoned beef in the taco shells, and top with lettuce, tomato, cheddar cheese, sour cream, and salsa.\n\n### Prep and Cook Time:\n- Prep Time: 15 minutes\n- Cook Time: 20 minutes\n- Servings: 4\n\nEnjoy your tacos! If you have any other questions or need more recipes, feel free to ask!",
+    "execution_time": 9.42,
+    "tokens": {
+      "input_tokens": 1014,
+      "output_tokens": 238,
+      "total_tokens": 1252
+    },
+    "cost": 0.000295
+  },
+  {
+    "question": "What recipes use coconut milk?",
+    "category": "ingredient-search",
+    "type": "ingredient-based",
+    "output": "Here are two recipes that use coconut milk:\n\n1. **Thai Green Curry**\n   - **Cuisine:** Thai\n   - **Prep Time:** 20 minutes\n   - **Cook Time:** 25 minutes\n   - **Serves:** 4\n   - **Ingredients:** chicken thigh, coconut milk, green curry paste, bamboo shoots, Thai basil, fish sauce, palm sugar, eggplant, bell pepper, jasmine rice.\n   - **Tags:** spicy, coconut.\n\n2. **Banana Pancakes**\n   - **Cuisine:** American\n   - **Prep Time:** 10 minutes\n   - **Cook Time:** 15 minutes\n   - **Serves:** 2\n   - **Ingredients:** ripe bananas, eggs, flour, baking powder, milk, butter, maple syrup, vanilla extract.\n   - **Tags:** breakfast, sweet, family-friendly.\n\nWould you like more details on any of these recipes?",
+    "execution_time": 8.19,
+    "tokens": {
+      "input_tokens": 620,
+      "output_tokens": 207,
+      "total_tokens": 827
+    },
+    "cost": 0.000217
+  },
+  {
+    "question": "Can I replace fish sauce with soy sauce in the Thai green curry?",
+    "category": "substitution",
+    "type": "specific",
+    "output": "Yes, you can replace fish sauce with soy sauce in Thai green curry. However, keep in mind that the flavor will be slightly different, as fish sauce has a unique umami and salty flavor. If you want to mimic the taste more closely, you might consider adding a little bit of lime juice or a splash of vinegar along with the soy sauce to add some acidity.",
+    "execution_time": 4.3,
+    "tokens": {
+      "input_tokens": 238,
+      "output_tokens": 76,
+      "total_tokens": 314
+    },
+    "cost": 8.1e-05
+  },
+  {
+    "question": "What's the shelf life of leftover falafel?",
+    "category": "missing-info",
+    "type": "storage",
+    "output": "I don't have specific information about the shelf life of leftover falafel. However, typically, cooked falafel can last in the refrigerator for about 3 to 7 days when stored in an airtight container. For the best taste and safety, it's best to consume them within this timeframe. If you are unsure, it's always best to check for any off smells or discoloration before eating.",
+    "execution_time": 3.17,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 78,
+      "total_tokens": 311
+    },
+    "cost": 8.2e-05
+  },
+  {
+    "question": "How do I make chocolate mousse?",
+    "category": "missing-recipe",
+    "type": "not-in-collection",
+    "output": "I couldn't find a chocolate mousse recipe specifically. However, I have a recipe for Chocolate Lava Cake. Would you like the details for that?",
+    "execution_time": 2.28,
+    "tokens": {
+      "input_tokens": 545,
+      "output_tokens": 46,
+      "total_tokens": 591
+    },
+    "cost": 0.000109
+  },
+  {
+    "question": "Which recipes are suitable for beginners?",
+    "category": "preference",
+    "type": "difficulty-based",
+    "output": "I don't have specific recipes labeled as beginner-friendly. However, I can help you find simple recipes that might be suitable for beginners if you provide me with an ingredient or type of dish you're interested in!",
+    "execution_time": 2.84,
+    "tokens": {
+      "input_tokens": 494,
+      "output_tokens": 57,
+      "total_tokens": 551
+    },
+    "cost": 0.000108
+  },
+  {
+    "question": "What Middle Eastern dishes do you have?",
+    "category": "collection-query",
+    "type": "cuisine-based",
+    "output": "Here are some Middle Eastern dishes I have:\n\n1. **Lamb Shawarma Bowl**\n   - **Prep Time:** 25 minutes\n   - **Cook Time:** 20 minutes\n   - **Serves:** 4\n   - **Ingredients:** Lamb leg, cumin, coriander, paprika, turmeric, garlic, lemon juice, tahini, pita bread, pickled turnips, hummus, tomato, cucumber, lettuce\n   - **Tags:** Protein-rich, bowl\n\n2. **Falafel Wrap**\n   - **Prep Time:** 30 minutes\n   - **Cook Time:** 15 minutes\n   - **Serves:** 4\n   - **Ingredients:** Chickpeas, onion, garlic, parsley, cilantro, cumin, coriander, flour, baking powder, pita bread, tahini, lettuce, tomato, pickles\n   - **Tags:** Vegetarian, vegan, street food\n\nIf you're interested in any specific recipe details or want instructions, let me know!",
+    "execution_time": 7.61,
+    "tokens": {
+      "input_tokens": 1057,
+      "output_tokens": 234,
+      "total_tokens": 1291
+    },
+    "cost": 0.000299
+  },
+  {
+    "question": "How much flour do I need for the banana pancakes?",
+    "category": "recipe-detail",
+    "type": "specific",
+    "output": "The recipe for banana pancakes does not specify the exact amount of flour needed. You'll combine it with other wet ingredients after mashing the bananas. If you would like, I can help you with a general guideline or a different recipe if you need more specific measurements!",
+    "execution_time": 4.23,
+    "tokens": {
+      "input_tokens": 1043,
+      "output_tokens": 84,
+      "total_tokens": 1127
+    },
+    "cost": 0.000207
+  },
+  {
+    "question": "Does the Greek salad have any dairy?",
+    "category": "dietary",
+    "type": "specific",
+    "output": "Traditional Greek salad typically includes feta cheese, which is a dairy product. The main ingredients usually consist of tomatoes, cucumbers, bell peppers, red onions, olives, and feta cheese, often dressed with olive oil and oregano. If you're looking for a dairy-free version, you could simply omit the feta or substitute it with a non-dairy alternative.",
+    "execution_time": 2.33,
+    "tokens": {
+      "input_tokens": 232,
+      "output_tokens": 71,
+      "total_tokens": 303
+    },
+    "cost": 7.7e-05
+  }
+]

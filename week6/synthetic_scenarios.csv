@@ -1,0 +1,76 @@
+question,category,type
+What ingredients do I need for Classic Margherita Pizza?,factual,factual
+How do I make Classic Margherita Pizza?,how-to,how-to
+What is the baking time for Classic Margherita Pizza?,detail,detail
+Can I replace fresh mozzarella with shredded mozzarella in Classic Margherita Pizza?,substitution,substitution
+How does Classic Margherita Pizza compare to Pepperoni Pizza?,comparison,comparison
+What ingredients do I need for Chicken Tikka Masala?,factual,factual
+How do I make Chicken Tikka Masala?,how-to,how-to
+What is the cooking time for the Chicken Tikka Masala?,detail,detail
+Can I replace yogurt with sour cream in Chicken Tikka Masala?,substitution,substitution
+How does Chicken Tikka Masala compare to Butter Chicken?,comparison,comparison
+What ingredients do I need for Caesar Salad?,factual,factual
+How do I make Caesar Salad?,how-to,how-to
+What temperature should I serve Caesar Salad at?,detail,detail
+Can I replace anchovy paste with miso in Caesar Salad?,substitution,substitution
+How does Caesar Salad compare to Greek Salad in terms of ingredients and preparation?,comparison,comparison
+What ingredients do I need for Beef Tacos?,factual,factual
+How do I make Beef Tacos?,how-to,how-to
+What temperature should I cook the beef at for Beef Tacos?,detail,detail
+Can I replace ground beef with ground turkey in Beef Tacos?,substitution,substitution
+How do Beef Tacos compare to Chicken Tacos in terms of flavor?,comparison,comparison
+What ingredients do I need for Vegetable Stir Fry?,factual,factual
+How do I make Vegetable Stir Fry?,how-to,how-to
+What temperature should I heat the wok for the Vegetable Stir Fry?,detail,detail
+Can I replace soy sauce with tamari in the Vegetable Stir Fry?,substitution,substitution
+How does Vegetable Stir Fry compare to a Chicken Stir Fry in terms of flavor and preparation time?,comparison,comparison
+What ingredients do I need for Spaghetti Carbonara?,factual,factual
+How do I make Spaghetti Carbonara?,how-to,how-to
+What temperature should I cook the guanciale at?,detail,detail
+Can I replace guanciale with bacon in Spaghetti Carbonara?,substitution,substitution
+How does Spaghetti Carbonara compare to Fettuccine Alfredo?,comparison,comparison
+What ingredients do I need for Thai Green Curry?,factual,factual
+How do I make Thai Green Curry?,how-to,how-to
+What is the cooking time for the Thai Green Curry?,detail,detail
+Can I replace chicken thigh with tofu in Thai Green Curry?,substitution,substitution
+How does Thai Green Curry compare to Thai Red Curry in terms of flavor?,comparison,comparison
+What ingredients do I need for Greek Salad?,factual,factual
+How do I make Greek Salad?,how-to,how-to
+What is the serving size for the Greek Salad recipe?,detail,detail
+Can I replace feta cheese with goat cheese in Greek Salad?,substitution,substitution
+How does Greek Salad compare to Caprese Salad?,comparison,comparison
+What ingredients do I need for Chocolate Lava Cake?,factual,factual
+How do I make Chocolate Lava Cake?,how-to,how-to
+What is the baking temperature for Chocolate Lava Cake?,detail,detail
+Can I replace dark chocolate with milk chocolate in Chocolate Lava Cake?,substitution,substitution
+How does Chocolate Lava Cake compare to Molten Chocolate Cake?,comparison,comparison
+What ingredients do I need for Miso Soup?,factual,factual
+How do I make Miso Soup?,how-to,how-to
+What temperature should I simmer the dashi stock for Miso Soup?,detail,detail
+Can I replace silken tofu with firm tofu in Miso Soup?,substitution,substitution
+How does Miso Soup compare to other Japanese soups like Ramen?,comparison,comparison
+What ingredients do I need for Banana Pancakes?,factual,ingredient
+How do I make Banana Pancakes?,how-to,instruction
+What temperature should I cook the pancakes at?,detail,cooking temperature
+Can I replace eggs with apple sauce in Banana Pancakes?,substitution,ingredient substitution
+How do Banana Pancakes compare to regular pancakes?,comparison,dish comparison
+What ingredients do I need for Lamb Shawarma Bowl?,factual,factual
+How do I make Lamb Shawarma Bowl?,how-to,how-to
+What is the cooking time for the lamb in the Lamb Shawarma Bowl?,detail,detail
+Can I replace lamb leg with chicken in the Lamb Shawarma Bowl?,substitution,substitution
+How does Lamb Shawarma Bowl compare to Chicken Shawarma Bowl?,comparison,comparison
+What ingredients do I need for Mushroom Risotto?,factual,factual
+How do I make Mushroom Risotto?,how-to,how-to
+What is the cooking time for Mushroom Risotto?,detail,detail
+Can I replace arborio rice with regular white rice in Mushroom Risotto?,substitution,substitution
+How does Mushroom Risotto compare to a regular rice pilaf?,comparison,comparison
+What ingredients do I need for Fish and Chips?,factual,factual
+How do I make Fish and Chips?,how-to,how-to
+What temperature do I fry the fish and chips at?,detail,detail
+Can I replace cod with another type of fish in Fish and Chips?,substitution,substitution
+How does Fish and Chips compare to other fried fish dishes?,comparison,comparison
+What ingredients do I need for Falafel Wrap?,factual,fact
+How do I make Falafel Wrap?,how-to,how-to
+What temperature should I deep fry the falafel?,detail,detail
+Can I replace chickpeas with black beans in the Falafel Wrap?,substitution,substitution
+How does Falafel Wrap compare to a Hummus Wrap?,comparison,comparison

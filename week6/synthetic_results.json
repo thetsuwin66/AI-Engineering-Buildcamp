@@ -1,0 +1,977 @@
+[
+  {
+    "question": "What ingredients do I need for Classic Margherita Pizza?",
+    "category": "factual",
+    "type": "factual",
+    "output": "For Classic Margherita Pizza, you will need the following ingredients:\n\n- Pizza dough\n- San Marzano tomatoes\n- Fresh mozzarella\n- Fresh basil\n- Olive oil\n- Salt\n\nEnjoy making your pizza! If you need the full recipe or specific instructions, let me know!",
+    "execution_time": 3.29,
+    "tokens": {
+      "input_tokens": 693,
+      "output_tokens": 78,
+      "total_tokens": 771
+    },
+    "cost": 0.000151
+  },
+  {
+    "question": "How do I make Classic Margherita Pizza?",
+    "category": "how-to",
+    "type": "how-to",
+    "output": "Here's how to make Classic Margherita Pizza:\n\n### Ingredients:\n- Pizza dough\n- San Marzano tomatoes\n- Fresh mozzarella\n- Fresh basil\n- Olive oil\n- Salt\n\n### Instructions:\n1. **Preheat the Oven:** Set your oven to 475\u00b0F (245\u00b0C).\n2. **Prepare the Dough:** Roll out the pizza dough on a floured surface.\n3. **Add Sauce:** Spread the crushed San Marzano tomatoes evenly over the rolled-out dough.\n4. **Add Cheese:** Tear fresh mozzarella into pieces and distribute them over the tomato sauce.\n5. **Bake:** Place the pizza in the oven and bake for 12-15 minutes, or until the crust is golden.\n6. **Finish:** After baking, top the pizza with fresh basil and drizzle with olive oil.\n\n### Servings:\nThis recipe serves 4.\n\nEnjoy your homemade Margherita Pizza!",
+    "execution_time": 7.79,
+    "tokens": {
+      "input_tokens": 1291,
+      "output_tokens": 217,
+      "total_tokens": 1508
+    },
+    "cost": 0.000324
+  },
+  {
+    "question": "What is the baking time for Classic Margherita Pizza?",
+    "category": "detail",
+    "type": "detail",
+    "output": "The baking time for Classic Margherita Pizza is 15 minutes.",
+    "execution_time": 2.4,
+    "tokens": {
+      "input_tokens": 693,
+      "output_tokens": 34,
+      "total_tokens": 727
+    },
+    "cost": 0.000124
+  },
+  {
+    "question": "Can I replace fresh mozzarella with shredded mozzarella in Classic Margherita Pizza?",
+    "category": "substitution",
+    "type": "substitution",
+    "output": "While you can technically substitute shredded mozzarella for fresh mozzarella in Classic Margherita Pizza, it will alter the texture and flavor of the pizza. Fresh mozzarella has a creamier texture and a more distinct milky flavor, which is a hallmark of Margherita pizza. Shredded mozzarella, on the other hand, usually has a drier texture and is often engineered to melt differently.\n\nIf you're looking for a creamier pizza taste, try to use fresh mozzarella if possible. However, if you only have shredded mozzarella on hand, it can work in a pinch, just be mindful that the pizza will have a different overall taste and texture. \n\nWould you like a specific recipe for Classic Margherita Pizza?",
+    "execution_time": 4.42,
+    "tokens": {
+      "input_tokens": 239,
+      "output_tokens": 143,
+      "total_tokens": 382
+    },
+    "cost": 0.000122
+  },
+  {
+    "question": "How does Classic Margherita Pizza compare to Pepperoni Pizza?",
+    "category": "comparison",
+    "type": "comparison",
+    "output": "I don't have specific comparative details on Classic Margherita Pizza and Pepperoni Pizza, as my focus is on providing recipes and cooking assistance rather than culinary comparisons. However, I can help you find detailed recipes for both types of pizza if you're interested! Would you like me to do that?",
+    "execution_time": 2.27,
+    "tokens": {
+      "input_tokens": 237,
+      "output_tokens": 59,
+      "total_tokens": 296
+    },
+    "cost": 7.1e-05
+  },
+  {
+    "question": "What ingredients do I need for Chicken Tikka Masala?",
+    "category": "factual",
+    "type": "factual",
+    "output": "For Chicken Tikka Masala, you will need the following ingredients:\n\n- Chicken breast\n- Yogurt\n- Garam masala\n- Turmeric\n- Cumin\n- Tomato sauce\n- Heavy cream\n- Garlic\n- Ginger\n- Onion\n- Cilantro\n- Rice\n\nLet me know if you need the full recipe or cooking instructions!",
+    "execution_time": 2.8,
+    "tokens": {
+      "input_tokens": 644,
+      "output_tokens": 93,
+      "total_tokens": 737
+    },
+    "cost": 0.000152
+  },
+  {
+    "question": "How do I make Chicken Tikka Masala?",
+    "category": "how-to",
+    "type": "how-to",
+    "output": "Here's how to make Chicken Tikka Masala:\n\n### Ingredients:\n- Chicken breasts\n- Yogurt\n- Garam masala\n- Turmeric\n- Cumin\n- Tomato sauce\n- Heavy cream\n- Garlic\n- Ginger\n- Onion\n- Cilantro\n- Rice (for serving)\n\n### Instructions:\n1. **Marinate the Chicken**: In a bowl, marinate the chicken in yogurt, garam masala, turmeric, and cumin. Let it marinate for at least 1 hour (or longer for better flavor).\n   \n2. **Cook the Chicken**: Grill or broil the marinated chicken until it is charred and cooked through.\n\n3. **Prepare the Sauce**: In a pan, saut\u00e9 chopped onion, garlic, and ginger until fragrant. \n\n4. **Add Tomato Sauce**: Stir in the tomato sauce and let it simmer for about 15 minutes.\n\n5. **Combine**: Add the heavy cream and cooked chicken to the sauce. Simmer for an additional 10 minutes.\n\n6. **Serve**: Serve the Chicken Tikka Masala over cooked rice and garnish with fresh cilantro.\n\nEnjoy your homemade Chicken Tikka Masala!",
+    "execution_time": 10.31,
+    "tokens": {
+      "input_tokens": 1230,
+      "output_tokens": 277,
+      "total_tokens": 1507
+    },
+    "cost": 0.000351
+  },
+  {
+    "question": "What is the cooking time for the Chicken Tikka Masala?",
+    "category": "detail",
+    "type": "detail",
+    "output": "The cooking time for Chicken Tikka Masala is 40 minutes, with an additional 30 minutes for preparation.",
+    "execution_time": 2.72,
+    "tokens": {
+      "input_tokens": 646,
+      "output_tokens": 43,
+      "total_tokens": 689
+    },
+    "cost": 0.000123
+  },
+  {
+    "question": "Can I replace yogurt with sour cream in Chicken Tikka Masala?",
+    "category": "substitution",
+    "type": "substitution",
+    "output": "While I don't have a specific recipe for Chicken Tikka Masala to reference, substituting sour cream for yogurt in a recipe is generally acceptable. Sour cream can provide a similar creaminess and tangy flavor, but it may result in a slightly different taste and texture.\n\nIf you're looking for a Chicken Tikka Masala recipe that includes yogurt or options for substitutes, please let me know!",
+    "execution_time": 2.48,
+    "tokens": {
+      "input_tokens": 238,
+      "output_tokens": 79,
+      "total_tokens": 317
+    },
+    "cost": 8.3e-05
+  },
+  {
+    "question": "How does Chicken Tikka Masala compare to Butter Chicken?",
+    "category": "comparison",
+    "type": "comparison",
+    "output": "Chicken Tikka Masala and Butter Chicken are both popular Indian dishes that feature chicken in a rich, creamy sauce, but they have some differences:\n\n1. **Preparation**:\n   - **Chicken Tikka Masala**: The chicken is marinated in spices and yogurt, grilled or baked until charred (tikka), and then simmered in a spiced tomato-based sauce with cream.\n   - **Butter Chicken**: The chicken is generally marinated in a similar yogurt and spice mixture but is typically cooked in a butter-rich gravy made from tomatoes and cream, giving it a different flavor profile.\n\n2. **Flavor**:\n   - **Chicken Tikka Masala**: Often has a more complex flavor profile due to the grilling process imparting a smoky taste, along with spices like garam masala, coriander, and cumin.\n   - **Butter Chicken**: Tends to be sweeter and richer because of the generous use of butter and cream, and may have a milder spice level.\n\n3. **Sauce**:\n   - **Chicken Tikka Masala**: The sauce is usually more tomato-forward and may have a vibrant orange color.\n   - **Butter Chicken**: The sauce is creamier and has a buttery flavor, usually appearing a more paler orange due to the cream.\n\n4. **Serving**:\n   - Both dishes are commonly served with naan, rice, or other Indian breads, but Butter Chicken is particularly popular as a comfort food due to its rich texture.\n\nOverall, while both are delicious and share some similarities, they offer different taste experiences that cater to varying preferences.",
+    "execution_time": 6.02,
+    "tokens": {
+      "input_tokens": 236,
+      "output_tokens": 326,
+      "total_tokens": 562
+    },
+    "cost": 0.000231
+  },
+  {
+    "question": "What ingredients do I need for Caesar Salad?",
+    "category": "factual",
+    "type": "factual",
+    "output": "For a Caesar Salad, you will need the following ingredients:\n\n- Romaine lettuce\n- Parmesan cheese\n- Croutons\n- Caesar dressing\n- Lemon juice\n- Anchovy paste\n- Garlic\n- Olive oil\n- Egg yolk\n\nThis recipe is quick and serves 2. Let me know if you need more details or instructions!",
+    "execution_time": 3.47,
+    "tokens": {
+      "input_tokens": 629,
+      "output_tokens": 89,
+      "total_tokens": 718
+    },
+    "cost": 0.000148
+  },
+  {
+    "question": "How do I make Caesar Salad?",
+    "category": "how-to",
+    "type": "how-to",
+    "output": "Here's how to make a Caesar Salad:\n\n### Ingredients:\n- Romaine lettuce\n- Parmesan cheese\n- Croutons\n- Caesar dressing\n- Lemon juice\n- Anchovy paste\n- Garlic\n- Olive oil\n- Egg yolk\n\n### Instructions:\n1. Wash and chop the romaine lettuce.\n2. To make the dressing, whisk together the egg yolk, anchovy paste, garlic, lemon juice, and olive oil until well combined.\n3. Toss the chopped lettuce with the dressing until it's evenly coated.\n4. Top the salad with shaved parmesan cheese and croutons.\n\n### Additional Information:\n- **Prep Time**: 15 minutes\n- **Cook Time**: 0 minutes\n- **Servings**: 2\n\nEnjoy your delicious Caesar Salad!",
+    "execution_time": 7.51,
+    "tokens": {
+      "input_tokens": 1165,
+      "output_tokens": 193,
+      "total_tokens": 1358
+    },
+    "cost": 0.000291
+  },
+  {
+    "question": "What temperature should I serve Caesar Salad at?",
+    "category": "detail",
+    "type": "detail",
+    "output": "Caesar Salad is typically served chilled or at room temperature. If the salad contains dressed greens and toppings like croutons, it\u2019s best to serve it chilled to maintain freshness and crispness. If the salad is warm, it\u2019s usually due to the addition of grilled chicken or warm croutons, in which case it can be served warm, but the greens should still be kept cool.",
+    "execution_time": 2.91,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 80,
+      "total_tokens": 313
+    },
+    "cost": 8.3e-05
+  },
+  {
+    "question": "Can I replace anchovy paste with miso in Caesar Salad?",
+    "category": "substitution",
+    "type": "substitution",
+    "output": "I don't have a specific recipe for Caesar Salad that includes anchovy paste, but generally speaking, miso can be used as a substitute for anchovy paste in terms of providing a savory, umami flavor. However, the flavor profile will be different, so it's good to consider the overall taste you are aiming for in your Caesar Salad. \n\nIf you're interested in a specific Caesar Salad recipe or one with a different twist, let me know and I can help you find an appropriate recipe!",
+    "execution_time": 3.74,
+    "tokens": {
+      "input_tokens": 237,
+      "output_tokens": 99,
+      "total_tokens": 336
+    },
+    "cost": 9.5e-05
+  },
+  {
+    "question": "How does Caesar Salad compare to Greek Salad in terms of ingredients and preparation?",
+    "category": "comparison",
+    "type": "comparison",
+    "output": "I don't have detailed recipes for Caesar Salad and Greek Salad, but I can provide a general comparison based on common knowledge.\n\n**Caesar Salad:**\n- **Ingredients**: Typically includes romaine lettuce, croutons, Parmesan cheese, and Caesar dressing (which usually contains garlic, lemon juice, Dijon mustard, Worcestershire sauce, anchovies, olive oil, salt, and pepper).\n- **Preparation**: The lettuce is usually chopped or torn, then topped with croutons and grated or shaved Parmesan. The dressing is either drizzled on top or mixed in well before serving. It may also have grilled chicken added for a protein boost.\n\n**Greek Salad:**\n- **Ingredients**: Generally made with tomatoes, cucumbers, bell peppers, red onions, olives (often Kalamata), and feta cheese, typically dressed with olive oil, lemon juice, and oregano. \n- **Preparation**: Ingredients are chopped into bite-sized pieces and combined in a bowl. The feta cheese can be crumbled or served in large blocks on top. The dressing is drizzled on right before serving.\n\nIn summary, while both salads are fresh and rely on a mix of vegetables, Caesar Salad has a creamy dressing and features romaine lettuce and cheese prominently, whereas Greek Salad is more focused on fresh vegetables, olives, and feta cheese, with a lighter vinaigrette-style dressing.",
+    "execution_time": 7.79,
+    "tokens": {
+      "input_tokens": 239,
+      "output_tokens": 279,
+      "total_tokens": 518
+    },
+    "cost": 0.000203
+  },
+  {
+    "question": "What ingredients do I need for Beef Tacos?",
+    "category": "factual",
+    "type": "factual",
+    "output": "For Beef Tacos, you'll need the following ingredients:\n\n- Ground beef\n- Taco shells\n- Lettuce\n- Tomato\n- Cheddar cheese\n- Sour cream\n- Taco seasoning\n- Onion\n- Salsa\n\nIf you need any further details or cooking instructions, just let me know!",
+    "execution_time": 3.79,
+    "tokens": {
+      "input_tokens": 560,
+      "output_tokens": 79,
+      "total_tokens": 639
+    },
+    "cost": 0.000131
+  },
+  {
+    "question": "How do I make Beef Tacos?",
+    "category": "how-to",
+    "type": "how-to",
+    "output": "Here's a simple recipe for Beef Tacos:\n\n### Ingredients:\n- Ground beef\n- Taco shells\n- Lettuce\n- Tomato\n- Cheddar cheese\n- Sour cream\n- Taco seasoning\n- Onion\n- Salsa\n\n### Instructions:\n1. **Brown the Ground Beef**: In a pan, brown the ground beef along with diced onion.\n2. **Add Seasoning**: Stir in taco seasoning and a bit of water. Let it simmer until thickened.\n3. **Warm the Taco Shells**: Heat the taco shells according to package instructions.\n4. **Assemble the Tacos**: Fill the taco shells with the seasoned beef and top with lettuce, tomato, cheddar cheese, sour cream, and salsa.\n\n### Cooking Time:\n- **Prep Time**: 15 minutes\n- **Cook Time**: 20 minutes\n- **Servings**: 4\n\nEnjoy your delicious Beef Tacos!",
+    "execution_time": 8.56,
+    "tokens": {
+      "input_tokens": 1019,
+      "output_tokens": 223,
+      "total_tokens": 1242
+    },
+    "cost": 0.000287
+  },
+  {
+    "question": "What temperature should I cook the beef at for Beef Tacos?",
+    "category": "detail",
+    "type": "detail",
+    "output": "For cooking Beef Tacos, the instructions don't specify an exact cooking temperature, but generally, you would brown the ground beef in a skillet over medium-high heat until it's cooked through. This typically requires a temperature of about 350\u00b0F (175\u00b0C) for stovetop cooking. \n\nMake sure to stir occasionally until the beef is browned and any added ingredients like onion are softened. After adding the taco seasoning and following the simmering instructions, you'll be set to serve!",
+    "execution_time": 3.94,
+    "tokens": {
+      "input_tokens": 1034,
+      "output_tokens": 127,
+      "total_tokens": 1161
+    },
+    "cost": 0.000231
+  },
+  {
+    "question": "Can I replace ground beef with ground turkey in Beef Tacos?",
+    "category": "substitution",
+    "type": "substitution",
+    "output": "I don't have a specific Beef Tacos recipe to confirm whether you can replace ground beef with ground turkey. However, ground turkey is often used as a leaner alternative to ground beef in taco recipes, and many people find it works well with the same seasonings and toppings. If you\u2019d like, I can search for a Beef Tacos recipe that we can look at for more specific details. Would you like me to do that?",
+    "execution_time": 3.38,
+    "tokens": {
+      "input_tokens": 237,
+      "output_tokens": 88,
+      "total_tokens": 325
+    },
+    "cost": 8.8e-05
+  },
+  {
+    "question": "How do Beef Tacos compare to Chicken Tacos in terms of flavor?",
+    "category": "comparison",
+    "type": "comparison",
+    "output": "I don't have specific flavor profiles for Beef Tacos and Chicken Tacos. However, generally speaking, beef tacos tend to have a richer and more robust flavor due to the higher fat content and the way beef absorbs spices and seasonings. Chicken tacos, on the other hand, can be lighter and milder, allowing for a variety of flavors depending on the seasoning and preparation method used. \n\nIf you need recipes for either Beef Tacos or Chicken Tacos, I can help with that! Just let me know.",
+    "execution_time": 2.03,
+    "tokens": {
+      "input_tokens": 239,
+      "output_tokens": 104,
+      "total_tokens": 343
+    },
+    "cost": 9.8e-05
+  },
+  {
+    "question": "What ingredients do I need for Vegetable Stir Fry?",
+    "category": "factual",
+    "type": "factual",
+    "output": "For the Vegetable Stir Fry, you will need the following ingredients:\n\n- Broccoli\n- Bell pepper\n- Carrot\n- Snap peas\n- Soy sauce\n- Sesame oil\n- Garlic\n- Ginger\n- Cornstarch\n- Rice\n\nIf you need any help with the cooking instructions, feel free to ask!",
+    "execution_time": 4.71,
+    "tokens": {
+      "input_tokens": 1340,
+      "output_tokens": 100,
+      "total_tokens": 1440
+    },
+    "cost": 0.000261
+  },
+  {
+    "question": "How do I make Vegetable Stir Fry?",
+    "category": "how-to",
+    "type": "how-to",
+    "output": "Here's a simple recipe for Vegetable Stir Fry:\n\n### Vegetable Stir Fry\n**Cuisine:** Chinese  \n**Difficulty:** Easy  \n**Prep Time:** 15 minutes  \n**Cook Time:** 10 minutes  \n**Servings:** 3  \n\n#### Ingredients:\n- Broccoli\n- Bell pepper\n- Carrot\n- Snap peas\n- Soy sauce\n- Sesame oil\n- Garlic\n- Ginger\n- Cornstarch\n- Rice (for serving)\n\n#### Instructions:\n1. Cut all vegetables into bite-sized pieces.\n2. Heat sesame oil in a wok over high heat.\n3. Add minced garlic and ginger; stir for about 30 seconds.\n4. Add the vegetables starting with the carrots and broccoli, followed by the softer vegetables.\n5. Stir in soy sauce and a cornstarch slurry (mix cornstarch with a little water until smooth).\n6. Cook until the sauce thickens.\n7. Serve the stir fry over cooked rice.\n\nEnjoy your healthy and quick Vegetable Stir Fry!",
+    "execution_time": 8.44,
+    "tokens": {
+      "input_tokens": 1334,
+      "output_tokens": 235,
+      "total_tokens": 1569
+    },
+    "cost": 0.000341
+  },
+  {
+    "question": "What temperature should I heat the wok for the Vegetable Stir Fry?",
+    "category": "detail",
+    "type": "detail",
+    "output": "For the Vegetable Stir Fry, you should heat the wok over **high heat**. Start by adding sesame oil, then saut\u00e9 garlic and ginger for about 30 seconds before adding the vegetables. Enjoy your cooking!",
+    "execution_time": 4.41,
+    "tokens": {
+      "input_tokens": 1349,
+      "output_tokens": 76,
+      "total_tokens": 1425
+    },
+    "cost": 0.000248
+  },
+  {
+    "question": "Can I replace soy sauce with tamari in the Vegetable Stir Fry?",
+    "category": "substitution",
+    "type": "substitution",
+    "output": "Yes, you can replace soy sauce with tamari in the Vegetable Stir Fry recipe. Tamari is a gluten-free alternative to soy sauce and has a similar flavor profile. Just use the same amount of tamari as you would soy sauce in the recipe. Enjoy your cooking!",
+    "execution_time": 3.82,
+    "tokens": {
+      "input_tokens": 1352,
+      "output_tokens": 89,
+      "total_tokens": 1441
+    },
+    "cost": 0.000256
+  },
+  {
+    "question": "How does Vegetable Stir Fry compare to a Chicken Stir Fry in terms of flavor and preparation time?",
+    "category": "comparison",
+    "type": "comparison",
+    "output": "I don't have specific recipes or comparisons for Vegetable Stir Fry versus Chicken Stir Fry. However, generally speaking:\n\n- **Flavor**: Vegetable Stir Fry tends to have a lighter, more varied flavor profile depending on the types of vegetables used, and it often leans towards a fresh and vibrant taste. Chicken Stir Fry usually has a savory and hearty flavor, enhanced by the meatiness of the chicken and the seasoning used.\n\n- **Preparation Time**: Both types of stir fry can be quite quick to prepare, often taking around 20 to 30 minutes including chopping ingredients and cooking. Vegetable stir fry might be slightly quicker as it usually involves just washing and cutting vegetables, while chicken stir fry requires additional cooking time for the meat to ensure it is fully cooked.\n\nIf you are interested in specific recipes for either Vegetable Stir Fry or Chicken Stir Fry, I can help you find them!",
+    "execution_time": 4.7,
+    "tokens": {
+      "input_tokens": 243,
+      "output_tokens": 176,
+      "total_tokens": 419
+    },
+    "cost": 0.000142
+  },
+  {
+    "question": "What ingredients do I need for Spaghetti Carbonara?",
+    "category": "factual",
+    "type": "factual",
+    "output": "For Spaghetti Carbonara, you will need the following ingredients:\n\n- Spaghetti\n- Guanciale\n- Egg yolks\n- Pecorino Romano cheese\n- Black pepper\n- Salt\n\nThis recipe typically serves 4. Let me know if you need any further details!",
+    "execution_time": 3.71,
+    "tokens": {
+      "input_tokens": 558,
+      "output_tokens": 77,
+      "total_tokens": 635
+    },
+    "cost": 0.00013
+  },
+  {
+    "question": "How do I make Spaghetti Carbonara?",
+    "category": "how-to",
+    "type": "how-to",
+    "output": "Here's how to make **Spaghetti Carbonara**:\n\n### Ingredients:\n- Spaghetti\n- Guanciale\n- Egg yolks\n- Pecorino Romano cheese\n- Black pepper\n- Salt\n\n### Instructions:\n1. Cook the spaghetti in salted water according to package instructions.\n2. In a separate pan, crisp the guanciale until it is golden and crispy.\n3. In a bowl, whisk together the egg yolks, grated pecorino cheese, and freshly cracked black pepper.\n4. Once the spaghetti is cooked, drain it but reserve some of the pasta water.\n5. Quickly toss the hot spaghetti with the crispy guanciale in the pan.\n6. Off the heat, stir in the egg mixture, adding reserved pasta water as needed to create a creamy sauce.\n7. Serve immediately with extra pecorino cheese on top.\n\nEnjoy your delicious Spaghetti Carbonara!",
+    "execution_time": 7.66,
+    "tokens": {
+      "input_tokens": 1039,
+      "output_tokens": 216,
+      "total_tokens": 1255
+    },
+    "cost": 0.000285
+  },
+  {
+    "question": "What temperature should I cook the guanciale at?",
+    "category": "detail",
+    "type": "detail",
+    "output": "I don't have a recipe specifically for guanciale, but I can suggest that guanciale is typically cooked slowly over low to medium heat to render out the fat and develop flavor without burning it. If you have a specific recipe in mind that uses guanciale, I can help you find that or something similar!",
+    "execution_time": 2.37,
+    "tokens": {
+      "input_tokens": 235,
+      "output_tokens": 65,
+      "total_tokens": 300
+    },
+    "cost": 7.4e-05
+  },
+  {
+    "question": "Can I replace guanciale with bacon in Spaghetti Carbonara?",
+    "category": "substitution",
+    "type": "substitution",
+    "output": "While you can technically replace guanciale with bacon in Spaghetti Carbonara, it will alter the traditional flavor of the dish. Guanciale is cured pork cheek that has a distinct flavor and fat content that is different from bacon, which usually comes from the pig's belly and is smoked. If you're looking for a substitute, pancetta is a closer option, but bacon can work if you're in a pinch. Just keep in mind that the final dish will taste different from the traditional version.",
+    "execution_time": 3.43,
+    "tokens": {
+      "input_tokens": 238,
+      "output_tokens": 100,
+      "total_tokens": 338
+    },
+    "cost": 9.6e-05
+  },
+  {
+    "question": "How does Spaghetti Carbonara compare to Fettuccine Alfredo?",
+    "category": "comparison",
+    "type": "comparison",
+    "output": "Spaghetti Carbonara and Fettuccine Alfredo are both popular Italian pasta dishes, but they have distinct differences in ingredients and preparation.\n\n1. **Ingredients**:\n   - **Spaghetti Carbonara** typically includes spaghetti noodles, eggs, Parmesan cheese, pancetta (or guanciale), and black pepper. The creaminess comes from the emulsification of eggs and cheese rather than heavy cream.\n   - **Fettuccine Alfredo**, on the other hand, features fettuccine noodles tossed in a sauce made primarily from butter and heavy cream, combined with Parmesan cheese. It is known for its rich, creamy texture.\n\n2. **Preparation**:\n   - Carbonara is made by cooking the pasta and then quickly mixing it with the cooked pancetta and a mixture of beaten eggs and cheese, allowing the residual heat to create a creamy sauce without the need for cream.\n   - Alfredo sauce is made by melting butter and cream together and adding cheese, creating a smooth and rich sauce that coats the pasta.\n\n3. **Flavor Profile**:\n   - Carbonara has a savory and slightly smoky flavor due to the pancetta and the richness of the cheese and egg. Black pepper adds a subtle spice.\n   - Alfredo is rich and creamy with a buttery flavor that is more mild compared to the robust taste of Carbonara.\n\n4. **Nutritional Content**:\n   - Carbonara can be considered slightly healthier due to the lesser amount of cream and the use of eggs and pancetta for protein.\n   - Alfredo tends to be higher in calories and fat due to the heavy cream and butter.\n\nIn summary, while both dishes are delicious and creamy, Carbonara offers a more complex flavor profile with the use of eggs and cured meat, whereas Alfredo is known for its indulgent creaminess.",
+    "execution_time": 9.59,
+    "tokens": {
+      "input_tokens": 238,
+      "output_tokens": 362,
+      "total_tokens": 600
+    },
+    "cost": 0.000253
+  },
+  {
+    "question": "What ingredients do I need for Thai Green Curry?",
+    "category": "factual",
+    "type": "factual",
+    "output": "For Thai Green Curry, you will need the following ingredients:\n\n- Chicken thigh\n- Coconut milk\n- Green curry paste\n- Bamboo shoots\n- Thai basil\n- Fish sauce\n- Palm sugar\n- Eggplant\n- Bell pepper\n- Jasmine rice\n\nThis will serve about 4 people. If you need the cooking instructions or any other information, feel free to ask!",
+    "execution_time": 3.27,
+    "tokens": {
+      "input_tokens": 633,
+      "output_tokens": 95,
+      "total_tokens": 728
+    },
+    "cost": 0.000152
+  },
+  {
+    "question": "How do I make Thai Green Curry?",
+    "category": "how-to",
+    "type": "how-to",
+    "output": "Here\u2019s how to make Thai Green Curry:\n\n### Ingredients:\n- Chicken thigh\n- Coconut milk\n- Green curry paste\n- Bamboo shoots\n- Thai basil\n- Fish sauce\n- Palm sugar\n- Eggplant\n- Bell pepper\n- Jasmine rice\n\n### Instructions:\n1. **Heat the Coconut Cream**: In a wok, heat the coconut cream until the oil separates.\n2. **Fry the Curry Paste**: Add the green curry paste and fry it for about 2 minutes.\n3. **Add Chicken**: Include sliced chicken and cook until it is sealed.\n4. **Pour in Coconut Milk**: Add the coconut milk and bring the mixture to a simmer.\n5. **Add Vegetables**: Mix in the eggplant and bamboo shoots, and cook for about 10 minutes.\n6. **Season**: Season the curry with fish sauce and palm sugar.\n7. **Final Touch**: Add bell pepper and Thai basil.\n8. **Serve**: Serve the curry over jasmine rice.\n\nEnjoy your delicious Thai Green Curry!",
+    "execution_time": 12.83,
+    "tokens": {
+      "input_tokens": 1199,
+      "output_tokens": 248,
+      "total_tokens": 1447
+    },
+    "cost": 0.000329
+  },
+  {
+    "question": "What is the cooking time for the Thai Green Curry?",
+    "category": "detail",
+    "type": "detail",
+    "output": "The cooking time for Thai Green Curry is 25 minutes. It also has a prep time of 20 minutes.",
+    "execution_time": 2.36,
+    "tokens": {
+      "input_tokens": 635,
+      "output_tokens": 41,
+      "total_tokens": 676
+    },
+    "cost": 0.00012
+  },
+  {
+    "question": "Can I replace chicken thigh with tofu in Thai Green Curry?",
+    "category": "substitution",
+    "type": "substitution",
+    "output": "I don't have a specific recipe for Thai Green Curry, but using tofu as a substitute for chicken thigh is commonly done in vegetarian or vegan versions of this dish. Tofu can absorb flavors well and has a good texture when cooked. If you're looking for a Thai Green Curry recipe with tofu, I can search for general Thai Curry recipes or vegetarian recipes that might include it. Would you like me to do that?",
+    "execution_time": 2.82,
+    "tokens": {
+      "input_tokens": 236,
+      "output_tokens": 83,
+      "total_tokens": 319
+    },
+    "cost": 8.5e-05
+  },
+  {
+    "question": "How does Thai Green Curry compare to Thai Red Curry in terms of flavor?",
+    "category": "comparison",
+    "type": "comparison",
+    "output": "I don't have specific recipes or detailed flavor profiles for Thai Green Curry and Thai Red Curry. However, generally speaking, Thai Green Curry tends to have a fresher, more herbal flavor due to the use of green chili peppers, basil, and cilantro in the paste, whereas Thai Red Curry is typically richer and spicier, made from red chili peppers, which can impart a deeper, more robust flavor. \n\nIf you're interested in recipes for either one, I can help you find them!",
+    "execution_time": 3.15,
+    "tokens": {
+      "input_tokens": 239,
+      "output_tokens": 99,
+      "total_tokens": 338
+    },
+    "cost": 9.5e-05
+  },
+  {
+    "question": "What ingredients do I need for Greek Salad?",
+    "category": "factual",
+    "type": "factual",
+    "output": "For a Greek Salad, you will need the following ingredients:\n\n- Cucumber\n- Tomato\n- Red onion\n- Kalamata olives\n- Feta cheese\n- Olive oil\n- Oregano\n- Red wine vinegar\n\nThis salad is vegetarian, healthy, and requires no cooking, making it a quick and easy dish to prepare!",
+    "execution_time": 3.67,
+    "tokens": {
+      "input_tokens": 628,
+      "output_tokens": 85,
+      "total_tokens": 713
+    },
+    "cost": 0.000145
+  },
+  {
+    "question": "How do I make Greek Salad?",
+    "category": "how-to",
+    "type": "how-to",
+    "output": "Here's a simple recipe for Greek Salad:\n\n### Ingredients\n- Cucumber\n- Tomato\n- Red onion\n- Kalamata olives\n- Feta cheese\n- Olive oil\n- Oregano\n- Red wine vinegar\n\n### Instructions\n1. Chop the cucumber, tomatoes, and red onion into chunks and combine them in a bowl.\n2. Add Kalamata olives and crumbled feta cheese to the mixture.\n3. Dress the salad with olive oil, red wine vinegar, and oregano.\n4. Toss gently to combine all ingredients.\n5. Let the salad sit for about 5 minutes before serving to allow the flavors to meld.\n\n### Notes\n- This salad is easy to prepare, requires no cooking, and serves 4.\n- It's a healthy option and perfect as a vegetarian dish!\n\nEnjoy your refreshing Greek Salad!",
+    "execution_time": 6.47,
+    "tokens": {
+      "input_tokens": 1168,
+      "output_tokens": 198,
+      "total_tokens": 1366
+    },
+    "cost": 0.000294
+  },
+  {
+    "question": "What is the serving size for the Greek Salad recipe?",
+    "category": "detail",
+    "type": "detail",
+    "output": "The serving size for the Greek Salad recipe is 4 servings.",
+    "execution_time": 1.92,
+    "tokens": {
+      "input_tokens": 632,
+      "output_tokens": 30,
+      "total_tokens": 662
+    },
+    "cost": 0.000113
+  },
+  {
+    "question": "Can I replace feta cheese with goat cheese in Greek Salad?",
+    "category": "substitution",
+    "type": "substitution",
+    "output": "Yes, you can replace feta cheese with goat cheese in a Greek salad. Both cheeses have a tangy flavor, though goat cheese may have a creamier texture and a somewhat different taste. Using goat cheese can provide a nice variation to the traditional Greek salad while still maintaining a similar flavor profile.",
+    "execution_time": 1.76,
+    "tokens": {
+      "input_tokens": 236,
+      "output_tokens": 60,
+      "total_tokens": 296
+    },
+    "cost": 7.1e-05
+  },
+  {
+    "question": "How does Greek Salad compare to Caprese Salad?",
+    "category": "comparison",
+    "type": "comparison",
+    "output": "Greek Salad and Caprese Salad are both fresh, flavorful dishes, but they differ in their ingredients and origins.\n\n### Greek Salad\n- **Main Ingredients**: Typically includes tomatoes, cucumbers, red onion, green bell pepper, olives (often Kalamata), and feta cheese. It's usually dressed with olive oil, vinegar, oregano, and sometimes lemon juice.\n- **Origin**: Hails from Greece and is a staple in Mediterranean cuisine.\n- **Flavor Profile**: Offers a savory and slightly tangy flavor, with the briny taste of olives and feta cheese.\n\n### Caprese Salad\n- **Main Ingredients**: Consists of fresh mozzarella cheese, tomatoes, and fresh basil, usually drizzled with olive oil and balsamic vinegar.\n- **Origin**: Originates from Italy, specifically from the island of Capri.\n- **Flavor Profile**: Tends to have a milder and more creamy flavor due to the mozzarella, with the freshness of basil adding a unique aroma.\n\n### Key Differences\n1. **Cheese**: Greek Salad uses feta cheese, while Caprese uses mozzarella.\n2. **Vegetables**: Greek Salad typically includes more vegetables like cucumbers and bell peppers, whereas Caprese focuses primarily on tomatoes and basil.\n3. **Dressing**: The dressing styles may vary, with Greek Salad often featuring oregano and vinegar, while Caprese leans towards a more straightforward olive oil and balsamic vinegar.\n\nBoth salads are refreshing and nutritious options, making them perfect for summer meals or as appetizers!",
+    "execution_time": 6.39,
+    "tokens": {
+      "input_tokens": 234,
+      "output_tokens": 310,
+      "total_tokens": 544
+    },
+    "cost": 0.000221
+  },
+  {
+    "question": "What ingredients do I need for Chocolate Lava Cake?",
+    "category": "factual",
+    "type": "factual",
+    "output": "For Chocolate Lava Cake, you will need the following ingredients:\n\n- Dark chocolate\n- Butter\n- Eggs\n- Sugar\n- Flour\n- Vanilla extract\n- Powdered sugar\n\nIf you need the full recipe or instructions, let me know!",
+    "execution_time": 3.38,
+    "tokens": {
+      "input_tokens": 551,
+      "output_tokens": 68,
+      "total_tokens": 619
+    },
+    "cost": 0.000123
+  },
+  {
+    "question": "How do I make Chocolate Lava Cake?",
+    "category": "how-to",
+    "type": "how-to",
+    "output": "Here's how to make Chocolate Lava Cake:\n\n### Ingredients:\n- Dark chocolate\n- Butter\n- Eggs\n- Sugar\n- Flour\n- Vanilla extract\n- Powdered sugar\n\n### Instructions:\n1. Melt the dark chocolate and butter together.\n2. In a separate bowl, whisk the eggs and sugar until thick.\n3. Fold the melted chocolate mixture into the egg mixture.\n4. Gently add the flour and vanilla extract, mixing until combined.\n5. Pour the batter into greased ramekins.\n6. Bake in a preheated oven at 425\u00b0F (220\u00b0C) for exactly 12-14 minutes. The edges should be firm while the center remains soft.\n7. Invert the ramekins onto plates and dust with powdered sugar.\n8. Serve immediately.\n\nEnjoy your delicious Chocolate Lava Cake!",
+    "execution_time": 6.43,
+    "tokens": {
+      "input_tokens": 1022,
+      "output_tokens": 197,
+      "total_tokens": 1219
+    },
+    "cost": 0.000271
+  },
+  {
+    "question": "What is the baking temperature for Chocolate Lava Cake?",
+    "category": "detail",
+    "type": "detail",
+    "output": "The baking temperature for Chocolate Lava Cake is 425\u00b0F (220\u00b0C). Bake for exactly 12-14 minutes, ensuring the edges are firm while the center remains soft.",
+    "execution_time": 3.95,
+    "tokens": {
+      "input_tokens": 1028,
+      "output_tokens": 68,
+      "total_tokens": 1096
+    },
+    "cost": 0.000195
+  },
+  {
+    "question": "Can I replace dark chocolate with milk chocolate in Chocolate Lava Cake?",
+    "category": "substitution",
+    "type": "substitution",
+    "output": "I don't have a specific Chocolate Lava Cake recipe available to provide exact details, but generally, you can replace dark chocolate with milk chocolate in lava cake recipes. However, keep in mind that it may alter the flavor and richness of the cake, making it sweeter and creamier due to the higher sugar content in milk chocolate. If you would like, I can help you find a Chocolate Lava Cake recipe to give you more information on the ingredients and instructions. Would you like me to do that?",
+    "execution_time": 3.43,
+    "tokens": {
+      "input_tokens": 237,
+      "output_tokens": 99,
+      "total_tokens": 336
+    },
+    "cost": 9.5e-05
+  },
+  {
+    "question": "How does Chocolate Lava Cake compare to Molten Chocolate Cake?",
+    "category": "comparison",
+    "type": "comparison",
+    "output": "Chocolate Lava Cake and Molten Chocolate Cake are essentially two terms that refer to a similar dessert. Both feature a cake with a gooey, melted chocolate center. Here's a quick comparison:\n\n1. **Chocolate Lava Cake**: This term often refers to individual servings of cake that have a liquid chocolate center when baked. It's known for its rich, decadent flavor and is usually served warm, often with ice cream or whipped cream.\n\n2. **Molten Chocolate Cake**: This is essentially the same as Chocolate Lava Cake but is sometimes used to describe cakes that might be larger or more traditional in shape. The name emphasizes the 'molten' center, which is liquid chocolate.\n\nIn terms of texture and taste, they are very similar, and many people use the terms interchangeably. Both desserts are celebrated for their indulgent nature and are popular in restaurants and home baking.",
+    "execution_time": 4.41,
+    "tokens": {
+      "input_tokens": 236,
+      "output_tokens": 175,
+      "total_tokens": 411
+    },
+    "cost": 0.00014
+  },
+  {
+    "question": "What ingredients do I need for Miso Soup?",
+    "category": "factual",
+    "type": "factual",
+    "output": "For Miso Soup, you will need the following ingredients:\n\n- Dashi stock\n- White miso paste\n- Silken tofu\n- Wakame seaweed\n- Green onion\n\nThis soup is quick to prepare and can be adapted to be vegan. Would you like the full recipe details or instructions on how to make it?",
+    "execution_time": 3.41,
+    "tokens": {
+      "input_tokens": 562,
+      "output_tokens": 85,
+      "total_tokens": 647
+    },
+    "cost": 0.000135
+  },
+  {
+    "question": "How do I make Miso Soup?",
+    "category": "how-to",
+    "type": "how-to",
+    "output": "Here's a simple recipe for Miso Soup:\n\n### Ingredients:\n- **Dashi stock**\n- **White miso paste**\n- **Silken tofu**, cubed\n- **Wakame seaweed**, rehydrated\n- **Green onion**, sliced\n\n### Instructions:\n1. Bring the dashi stock to a gentle simmer.\n2. Add the cubed silken tofu and rehydrated wakame seaweed to the pot.\n3. In a bowl, ladle some of the broth and dissolve the white miso paste in it. \n4. Pour the miso mixture back into the pot. **Do not boil after adding the miso.**\n5. Serve the soup topped with sliced green onion.\n\n### Prep and Cook Time:\n- **Prep time:** 5 minutes\n- **Cook time:** 10 minutes\n- **Servings:** 4 \n\nEnjoy your homemade Miso Soup!",
+    "execution_time": 10.46,
+    "tokens": {
+      "input_tokens": 1039,
+      "output_tokens": 218,
+      "total_tokens": 1257
+    },
+    "cost": 0.000287
+  },
+  {
+    "question": "What temperature should I simmer the dashi stock for Miso Soup?",
+    "category": "detail",
+    "type": "detail",
+    "output": "I don't have a specific recipe for Miso Soup or instructions for simmering dashi stock. However, typically, dashi stock is simmered gently at a low temperature, usually around 160\u00b0F to 180\u00b0F (70\u00b0C to 80\u00b0C), to avoid boiling. This allows the flavors to develop without causing the stock to become cloudy. If you need a specific recipe for Miso Soup or dashi, just let me know!",
+    "execution_time": 2.93,
+    "tokens": {
+      "input_tokens": 238,
+      "output_tokens": 90,
+      "total_tokens": 328
+    },
+    "cost": 9e-05
+  },
+  {
+    "question": "Can I replace silken tofu with firm tofu in Miso Soup?",
+    "category": "substitution",
+    "type": "substitution",
+    "output": "While silken tofu and firm tofu are both types of tofu, they have different textures and properties. Silken tofu is softer and creamier, while firm tofu holds its shape better and is denser. If you substitute firm tofu for silken tofu in miso soup, the texture will be different, and the soup may not have the same creaminess.\n\nIf you want to make the substitution, you can cube the firm tofu and cook it slightly to warm it up before adding it to the soup. The overall flavor will still be delicious, but the mouthfeel will change.",
+    "execution_time": 2.46,
+    "tokens": {
+      "input_tokens": 238,
+      "output_tokens": 117,
+      "total_tokens": 355
+    },
+    "cost": 0.000106
+  },
+  {
+    "question": "How does Miso Soup compare to other Japanese soups like Ramen?",
+    "category": "comparison",
+    "type": "comparison",
+    "output": "Miso Soup and Ramen are both popular Japanese soups, but they differ significantly in terms of ingredients, preparation, and flavor profiles:\n\n1. **Base Ingredients**:\n   - **Miso Soup**: The primary base is dashi (Japanese soup stock), which is flavored with miso paste, fermented soybean paste. Miso Soup often includes ingredients like tofu, seaweed (such as wakame), and green onions.\n   - **Ramen**: Ramen is a noodle soup that includes a meat or fish-based broth, often flavored with soy sauce, miso, or salt. Ramen comes with wheat noodles and is typically topped with ingredients such as sliced pork (chashu), green onions, soft-boiled eggs, and various vegetables.\n\n2. **Components**:\n   - **Miso Soup**: Mostly served as a side dish or starter in meals. It's lighter and more straightforward in terms of ingredients.\n   - **Ramen**: A complete meal with a variety of components that make it more filling. The noodles and toppings provide a range of textures and flavors.\n\n3. **Preparation Time**:\n   - **Miso Soup**: Quick to prepare, often ready in just a few minutes.\n   - **Ramen**: Can be more complex and time-consuming, especially if making the broth from scratch or preparing all the toppings.\n\n4. **Flavor Profile**:\n   - **Miso Soup**: Generally has a savory and slightly salty taste from the miso. The flavor can vary depending on the type of miso used (white, red, etc.).\n   - **Ramen**: Offers a more complex flavor profile due to the variety of broth types and toppings, combining savory, spicy, and umami elements.\n\nIn summary, while both are integral parts of Japanese cuisine, Miso Soup is simpler and lighter, typically served as a side, whereas Ramen is a hearty and complex dish that stands alone as a full meal.",
+    "execution_time": 12.03,
+    "tokens": {
+      "input_tokens": 238,
+      "output_tokens": 400,
+      "total_tokens": 638
+    },
+    "cost": 0.000276
+  },
+  {
+    "question": "What ingredients do I need for Banana Pancakes?",
+    "category": "factual",
+    "type": "ingredient",
+    "output": "To make Banana Pancakes, you will need the following ingredients:\n\n- Ripe bananas\n- Eggs\n- Flour\n- Baking powder\n- Milk\n- Butter\n- Maple syrup\n- Vanilla extract\n\nIf you need the full recipe or instructions on how to make them, let me know!",
+    "execution_time": 4.03,
+    "tokens": {
+      "input_tokens": 558,
+      "output_tokens": 79,
+      "total_tokens": 637
+    },
+    "cost": 0.000131
+  },
+  {
+    "question": "How do I make Banana Pancakes?",
+    "category": "how-to",
+    "type": "instruction",
+    "output": "Here's a simple recipe for Banana Pancakes:\n\n### Ingredients:\n- Ripe bananas\n- Eggs\n- Flour\n- Baking powder\n- Milk\n- Butter\n- Maple syrup\n- Vanilla extract\n\n### Instructions:\n1. **Mash the Bananas**: In a bowl, mash the ripe bananas.\n2. **Combine Wet Ingredients**: Whisk in the eggs, milk, and vanilla extract into the mashed bananas.\n3. **Mix Dry Ingredients**: In another bowl, mix the flour and baking powder together.\n4. **Combine**: Add the dry ingredients to the wet mixture and stir until just combined (lumps are fine).\n5. **Cook**: Heat butter in a pan over medium heat. Pour batter to form pancakes. Cook until bubbles form on the surface, then flip.\n6. **Serve**: Serve with maple syrup.\n\n### Prep Time: 10 minutes\n### Cook Time: 15 minutes\n### Servings: 2\n\nEnjoy your banana pancakes!",
+    "execution_time": 8.66,
+    "tokens": {
+      "input_tokens": 1034,
+      "output_tokens": 234,
+      "total_tokens": 1268
+    },
+    "cost": 0.000295
+  },
+  {
+    "question": "What temperature should I cook the pancakes at?",
+    "category": "detail",
+    "type": "cooking temperature",
+    "output": "I don't have a specific recipe for pancakes to reference the cooking temperature. However, typically, pancakes are cooked on a skillet or griddle at medium heat, around 350\u00b0F (175\u00b0C). You can also check if the pan is ready by sprinkling a few drops of water on it; if they dance and evaporate, the pan is hot enough. If you need a specific pancake recipe, I can help with that!",
+    "execution_time": 3.35,
+    "tokens": {
+      "input_tokens": 233,
+      "output_tokens": 87,
+      "total_tokens": 320
+    },
+    "cost": 8.7e-05
+  },
+  {
+    "question": "Can I replace eggs with apple sauce in Banana Pancakes?",
+    "category": "substitution",
+    "type": "ingredient substitution",
+    "output": "I don't have a specific recipe for Banana Pancakes that includes a substitution for eggs with apple sauce. However, it's generally accepted that applesauce can be used as an egg substitute in pancake recipes. The typical ratio is 1/4 cup of applesauce to replace one egg.\n\nIf you'd like, I can search for a Banana Pancake recipe to confirm the details and check if there are any other egg substitutes recommended. Would you like me to do that?",
+    "execution_time": 3.38,
+    "tokens": {
+      "input_tokens": 236,
+      "output_tokens": 93,
+      "total_tokens": 329
+    },
+    "cost": 9.1e-05
+  },
+  {
+    "question": "How do Banana Pancakes compare to regular pancakes?",
+    "category": "comparison",
+    "type": "dish comparison",
+    "output": "I don't have a specific recipe for Banana Pancakes to compare, but I can tell you that Banana Pancakes typically include mashed bananas in the batter, which adds natural sweetness and moisture. They often have a slightly different texture and flavor, being more tender and fruity compared to regular pancakes.\n\nRegular pancakes are usually made with flour, milk, eggs, and baking powder, resulting in a more neutral taste that can pair well with a variety of toppings.\n\nIf you're interested, I can look for a recipe for Banana Pancakes or regular pancakes for you. Would you like that?",
+    "execution_time": 3.97,
+    "tokens": {
+      "input_tokens": 234,
+      "output_tokens": 115,
+      "total_tokens": 349
+    },
+    "cost": 0.000104
+  },
+  {
+    "question": "What ingredients do I need for Lamb Shawarma Bowl?",
+    "category": "factual",
+    "type": "factual",
+    "output": "For a Lamb Shawarma Bowl, you will need the following ingredients:\n\n- Lamb leg\n- Cumin\n- Coriander\n- Paprika\n- Turmeric\n- Garlic\n- Lemon juice\n- Tahini\n- Pita bread\n- Pickled turnips\n- Hummus\n- Tomato\n- Cucumber\n- Lettuce\n\nThis recipe is protein-rich and serves 4 people. If you need more details or cooking instructions, let me know!",
+    "execution_time": 7.0,
+    "tokens": {
+      "input_tokens": 713,
+      "output_tokens": 117,
+      "total_tokens": 830
+    },
+    "cost": 0.000177
+  },
+  {
+    "question": "How do I make Lamb Shawarma Bowl?",
+    "category": "how-to",
+    "type": "how-to",
+    "output": "Here\u2019s how to make a **Lamb Shawarma Bowl**:\n\n### Ingredients:\n- Lamb leg\n- Cumin\n- Coriander\n- Paprika\n- Turmeric\n- Garlic\n- Lemon juice\n- Tahini\n- Pita bread\n- Pickled turnips\n- Hummus\n- Tomato\n- Cucumber\n- Lettuce\n\n### Instructions:\n1. **Marinate the Lamb**: Slice the lamb thinly and marinate it with cumin, coriander, paprika, turmeric, garlic, and lemon juice. Let it marinate for at least 30 minutes.\n   \n2. **Cook the Lamb**: Heat a skillet and cook the marinated lamb until it is browned and cooked through.\n\n3. **Make Tahini Sauce**: In a bowl, mix tahini with lemon juice, minced garlic, and a little water until you reach your desired consistency.\n\n4. **Assemble the Bowls**: In bowls, layer your choice of rice or pita, add the cooked lamb, hummus, fresh vegetables (like tomato, cucumber, and lettuce), and top with pickled turnips. \n\n5. **Drizzle with Sauce**: Finish off by drizzling your tahini sauce over the assembled bowl.\n\n### Serving:\nThis recipe serves 4 and offers a delightful way to enjoy lamb with fresh veggies and sauces.\n\nEnjoy your cooking!",
+    "execution_time": 13.1,
+    "tokens": {
+      "input_tokens": 1388,
+      "output_tokens": 316,
+      "total_tokens": 1704
+    },
+    "cost": 0.000398
+  },
+  {
+    "question": "What is the cooking time for the lamb in the Lamb Shawarma Bowl?",
+    "category": "detail",
+    "type": "detail",
+    "output": "The cooking time for the lamb in the Lamb Shawarma Bowl is 20 minutes.",
+    "execution_time": 2.97,
+    "tokens": {
+      "input_tokens": 721,
+      "output_tokens": 37,
+      "total_tokens": 758
+    },
+    "cost": 0.00013
+  },
+  {
+    "question": "Can I replace lamb leg with chicken in the Lamb Shawarma Bowl?",
+    "category": "substitution",
+    "type": "substitution",
+    "output": "Yes, you can replace lamb leg with chicken in the Lamb Shawarma Bowl. While the flavor and texture will change, chicken can still work well with the spices and ingredients used in the dish. Just make sure to slice the chicken thinly and marinate it with the same spices (cumin, coriander, paprika, turmeric, garlic, and lemon juice) before cooking.\n\nHere are the main components of the Lamb Shawarma Bowl:\n\n- **Ingredients:**\n  - Chicken (instead of lamb leg)\n  - Cumin\n  - Coriander\n  - Paprika\n  - Turmeric\n  - Garlic\n  - Lemon juice\n  - Tahini\n  - Pita bread\n  - Pickled turnips\n  - Hummus\n  - Tomato\n  - Cucumber\n  - Lettuce\n\nThe cooking method remains the same. Cook the marinated chicken in a hot skillet until browned and cooked through, then assemble the bowl with rice or pita, chicken, hummus, vegetables, and pickled turnips, drizzling with tahini sauce.\n\nEnjoy your chicken shawarma bowl!",
+    "execution_time": 12.79,
+    "tokens": {
+      "input_tokens": 1403,
+      "output_tokens": 262,
+      "total_tokens": 1665
+    },
+    "cost": 0.000368
+  },
+  {
+    "question": "How does Lamb Shawarma Bowl compare to Chicken Shawarma Bowl?",
+    "category": "comparison",
+    "type": "comparison",
+    "output": "I don't have specific information on a Lamb Shawarma Bowl or a Chicken Shawarma Bowl. However, if you're looking for recipes or details about shawarma in general, I can help find some recipes related to shawarma or similar dishes. Would you like me to do that?",
+    "execution_time": 3.58,
+    "tokens": {
+      "input_tokens": 237,
+      "output_tokens": 56,
+      "total_tokens": 293
+    },
+    "cost": 6.9e-05
+  },
+  {
+    "question": "What ingredients do I need for Mushroom Risotto?",
+    "category": "factual",
+    "type": "factual",
+    "output": "For Mushroom Risotto, you will need the following ingredients:\n\n- Arborio rice\n- Mixed mushrooms\n- Onion\n- Garlic\n- White wine\n- Vegetable broth\n- Parmesan cheese\n- Butter\n- Olive oil\n- Thyme\n\nThis recipe serves 4 and is a vegetarian comfort food option!",
+    "execution_time": 4.11,
+    "tokens": {
+      "input_tokens": 564,
+      "output_tokens": 83,
+      "total_tokens": 647
+    },
+    "cost": 0.000134
+  },
+  {
+    "question": "How do I make Mushroom Risotto?",
+    "category": "how-to",
+    "type": "how-to",
+    "output": "Here\u2019s how to make Mushroom Risotto:\n\n### Ingredients:\n- Arborio rice\n- Mixed mushrooms\n- Onion\n- Garlic\n- White wine\n- Vegetable broth\n- Parmesan cheese\n- Butter\n- Olive oil\n- Thyme\n\n### Instructions:\n1. **Saut\u00e9 Mushrooms**: In a pan, heat olive oil and saut\u00e9 the mixed mushrooms until they are golden brown. Remove them from the pan and set aside.\n   \n2. **Cook Onions and Garlic**: In the same pan, add butter and cook the chopped onion and minced garlic until they're soft.\n\n3. **Toast Rice**: Add the Arborio rice to the pan and toast it for about 2 minutes, stirring frequently.\n\n4. **Add Wine**: Pour in the white wine and stir until it has been absorbed by the rice.\n\n5. **Add Broth**: Gradually add the warm vegetable broth one ladle at a time. Stir frequently and allow the liquid to be absorbed before adding more. Continue this process until the rice is creamy and al dente, which should take about 18-20 minutes.\n\n6. **Combine Ingredients**: Stir in the saut\u00e9ed mushrooms, grated Parmesan cheese, and fresh thyme.\n\nEnjoy your Mushroom Risotto! It serves 4 and is a delicious vegetarian comfort food.",
+    "execution_time": 14.82,
+    "tokens": {
+      "input_tokens": 1074,
+      "output_tokens": 302,
+      "total_tokens": 1376
+    },
+    "cost": 0.000342
+  },
+  {
+    "question": "What is the cooking time for Mushroom Risotto?",
+    "category": "detail",
+    "type": "detail",
+    "output": "The cooking time for Mushroom Risotto is approximately 35 minutes, with an additional 10 minutes for preparation, making a total of about 45 minutes.",
+    "execution_time": 3.8,
+    "tokens": {
+      "input_tokens": 564,
+      "output_tokens": 51,
+      "total_tokens": 615
+    },
+    "cost": 0.000115
+  },
+  {
+    "question": "Can I replace arborio rice with regular white rice in Mushroom Risotto?",
+    "category": "substitution",
+    "type": "substitution",
+    "output": "I don't have a specific recipe for Mushroom Risotto at the moment, but generally, arborio rice is preferred for risotto because it has a high starch content, which gives the dish its creamy texture. Regular white rice doesn't have the same starchiness and may not achieve the same consistency. If you have arborio rice, it's best to use that. If you're looking for alternatives or variations to Mushroom Risotto, I can help find some recipes for you. Would you like that?",
+    "execution_time": 6.4,
+    "tokens": {
+      "input_tokens": 239,
+      "output_tokens": 98,
+      "total_tokens": 337
+    },
+    "cost": 9.5e-05
+  },
+  {
+    "question": "How does Mushroom Risotto compare to a regular rice pilaf?",
+    "category": "comparison",
+    "type": "comparison",
+    "output": "Mushroom Risotto and regular rice pilaf are both rice-based dishes, but they have distinct differences in preparation, texture, and flavor:\n\n1. **Cooking Technique**:\n   - **Mushroom Risotto**: Made using the risotto method, which involves gradually adding broth to arborio rice while continuously stirring. This process helps release starch from the rice, creating a creamy consistency.\n   - **Rice Pilaf**: Typically prepared by saut\u00e9ing rice with aromatic ingredients (like onions and garlic) and cooking it in a flavorful broth without constant stirring. The rice grains remain separate and fluffy.\n\n2. **Ingredients**:\n   - **Mushroom Risotto**: Primarily features arborio rice and mushrooms along with broth, butter, onions, garlic, Parmesan cheese, and herbs. The combination of ingredients contributes to a rich, creamy dish.\n   - **Rice Pilaf**: Often includes a variety of grains (not just rice), spices, and vegetables but does not usually have added cheese or cream. The flavor is usually more subtle and may include spices like cumin or saffron.\n\n3. **Texture and Consistency**:\n   - **Mushroom Risotto**: Creamy and rich, with a soft, cohesive texture resulting from the starch released during cooking.\n   - **Rice Pilaf**: Light and fluffy, with each grain distinct and cooked to perfection.\n\n4. **Flavor Profile**:\n   - **Mushroom Risotto**: Rich, earthy flavors from the mushrooms, along with the creamy, cheesy taste from the addition of Parmesan.\n   - **Rice Pilaf**: Often has a milder flavor profile, depending on the spices and ingredients used, providing a more versatile base for main dishes.\n\nOverall, Mushroom Risotto is a more indulgent, creamy dish, while rice pilaf is lighter and focuses on the individual flavors of the ingredients used.",
+    "execution_time": 16.0,
+    "tokens": {
+      "input_tokens": 237,
+      "output_tokens": 385,
+      "total_tokens": 622
+    },
+    "cost": 0.000267
+  },
+  {
+    "question": "What ingredients do I need for Fish and Chips?",
+    "category": "factual",
+    "type": "factual",
+    "output": "For Fish and Chips, you'll need the following ingredients:\n\n- Cod fillets\n- Flour\n- Beer\n- Baking powder\n- Potatoes\n- Vegetable oil\n- Salt\n- Malt vinegar\n- Tartar sauce\n- Lemon\n- Peas\n\nThis classic dish is a favorite in British cuisine!",
+    "execution_time": 3.69,
+    "tokens": {
+      "input_tokens": 709,
+      "output_tokens": 81,
+      "total_tokens": 790
+    },
+    "cost": 0.000155
+  },
+  {
+    "question": "How do I make Fish and Chips?",
+    "category": "how-to",
+    "type": "how-to",
+    "output": "Here's how to make classic Fish and Chips:\n\n### Ingredients:\n- **For the fish:**\n  - Cod fillets\n  - Flour\n  - Beer\n  - Baking powder\n  - Vegetable oil\n  \n- **For the chips:**\n  - Potatoes\n  - Salt\n\n- **To serve:**\n  - Malt vinegar\n  - Tartar sauce\n  - Lemon\n  - Peas (optional)\n\n### Instructions:\n1. **Prepare the Chips:**\n   - Cut the potatoes into thick chips.\n   - Soak the chips in cold water for 30 minutes to remove excess starch.\n   - Pat them dry with a towel and fry at 325\u00b0F (163\u00b0C) for about 5 minutes. Drain and set aside.\n\n2. **Make the Batter:**\n   - In a bowl, whisk together flour, baking powder, and beer until the mixture is smooth.\n\n3. **Fry the Fish:**\n   - Heat the vegetable oil in a fryer or deep pot to 375\u00b0F (190\u00b0C).\n   - Dip the cod fillets in flour, then coat them in the batter.\n   - Carefully place the battered fish in the hot oil and fry for 5-7 minutes or until golden and crispy.\n\n4. **Finish the Chips:**\n   - Return the precooked chips to the hot oil and re-fry at 375\u00b0F (190\u00b0C) until they are crispy.\n\n5. **Serve:**\n   - Serve the fish and chips hot, with malt vinegar, tartar sauce, lemon wedges, and peas on the side if desired.\n\nEnjoy your homemade Fish and Chips!",
+    "execution_time": 10.06,
+    "tokens": {
+      "input_tokens": 1377,
+      "output_tokens": 365,
+      "total_tokens": 1742
+    },
+    "cost": 0.000426
+  },
+  {
+    "question": "What temperature do I fry the fish and chips at?",
+    "category": "detail",
+    "type": "detail",
+    "output": "I don't have specific recipes for cooking fish and chips, but typically, for frying, you would heat the oil to around 350\u00b0F to 365\u00b0F (about 180\u00b0C to 190\u00b0C). This temperature allows the batter to become crispy while ensuring that the fish is cooked through. If you need a specific recipe for fish and chips, let me know, and I can help you find one!",
+    "execution_time": 2.48,
+    "tokens": {
+      "input_tokens": 235,
+      "output_tokens": 82,
+      "total_tokens": 317
+    },
+    "cost": 8.4e-05
+  },
+  {
+    "question": "Can I replace cod with another type of fish in Fish and Chips?",
+    "category": "substitution",
+    "type": "substitution",
+    "output": "I don't have a specific Fish and Chips recipe in my collection, but commonly used fish for this dish include haddock, pollock, and whiting, all of which can be good substitutes for cod. If you\u2019d like, I can search for a Fish and Chips recipe so you can see the ingredients and instructions! Would you like that?",
+    "execution_time": 2.14,
+    "tokens": {
+      "input_tokens": 238,
+      "output_tokens": 70,
+      "total_tokens": 308
+    },
+    "cost": 7.8e-05
+  },
+  {
+    "question": "How does Fish and Chips compare to other fried fish dishes?",
+    "category": "comparison",
+    "type": "comparison",
+    "output": "I don't have specific recipes for Fish and Chips or a comparison to other fried fish dishes. However, if you're interested in recipes for fried fish or similar dishes, I can help you find some. Would you like me to search for fried fish recipes or other similar dishes?",
+    "execution_time": 2.09,
+    "tokens": {
+      "input_tokens": 236,
+      "output_tokens": 55,
+      "total_tokens": 291
+    },
+    "cost": 6.8e-05
+  },
+  {
+    "question": "What ingredients do I need for Falafel Wrap?",
+    "category": "factual",
+    "type": "fact",
+    "output": "For a Falafel Wrap, you'll need the following ingredients:\n\n- Chickpeas\n- Onion\n- Garlic\n- Parsley\n- Cilantro\n- Cumin\n- Coriander\n- Flour\n- Baking powder\n- Pita bread\n- Tahini\n- Lettuce\n- Tomato\n- Pickles\n\nThis recipe is vegetarian and vegan, making it a delicious street food option! Let me know if you need more information or the full recipe.",
+    "execution_time": 3.74,
+    "tokens": {
+      "input_tokens": 571,
+      "output_tokens": 112,
+      "total_tokens": 683
+    },
+    "cost": 0.000153
+  },
+  {
+    "question": "How do I make Falafel Wrap?",
+    "category": "how-to",
+    "type": "how-to",
+    "output": "Here's how to make a Falafel Wrap:\n\n### Ingredients:\n- Chickpeas\n- Onion\n- Garlic\n- Parsley\n- Cilantro\n- Cumin\n- Coriander\n- Flour\n- Baking powder\n- Pita bread\n- Tahini\n- Lettuce\n- Tomato\n- Pickles\n\n### Instructions:\n1. **Soak Chickpeas**: Soak dried chickpeas overnight (do not use canned).\n2. **Blend Mixture**: In a blender, blend the soaked chickpeas with onion, garlic, parsley, cilantro, cumin, and coriander until you get a coarse mixture.\n3. **Add Dry Ingredients**: Add flour and baking powder to the mixture and mix well.\n4. **Form Falafels**: Shape the mixture into balls or patties.\n5. **Fry**: Heat oil in a deep pot to 350\u00b0F (175\u00b0C) and deep fry the falafels for 3-4 minutes until they are dark golden brown.\n6. **Assemble the Wrap**: Serve the falafels in pita bread with tahini sauce, lettuce, tomato, and pickles.\n\nEnjoy your delicious Falafel Wrap!",
+    "execution_time": 9.62,
+    "tokens": {
+      "input_tokens": 1093,
+      "output_tokens": 276,
+      "total_tokens": 1369
+    },
+    "cost": 0.00033
+  },
+  {
+    "question": "What temperature should I deep fry the falafel?",
+    "category": "detail",
+    "type": "detail",
+    "output": "I don't have specific information on falafel recipes right now, but deep frying generally requires a temperature range of about 350\u00b0F to 375\u00b0F (175\u00b0C to 190\u00b0C) for most foods. You can maintain this temperature while frying falafel for a crispy texture. If you're looking for a falafel recipe, I can help you find one! Would you like me to do that?",
+    "execution_time": 2.81,
+    "tokens": {
+      "input_tokens": 234,
+      "output_tokens": 80,
+      "total_tokens": 314
+    },
+    "cost": 8.3e-05
+  },
+  {
+    "question": "Can I replace chickpeas with black beans in the Falafel Wrap?",
+    "category": "substitution",
+    "type": "substitution",
+    "output": "The Falafel Wrap recipe calls for chickpeas as the primary ingredient. While black beans can be a tasty substitute in various dishes, they will significantly alter the texture and flavor of the falafel. If you're looking for an alternative, you might consider using another legume, but for traditional falafel, chickpeas are recommended. \n\nIf you'd like, I can help you find a recipe that uses black beans or give you more details on the Falafel Wrap with chickpeas!",
+    "execution_time": 4.62,
+    "tokens": {
+      "input_tokens": 579,
+      "output_tokens": 113,
+      "total_tokens": 692
+    },
+    "cost": 0.000155
+  },
+  {
+    "question": "How does Falafel Wrap compare to a Hummus Wrap?",
+    "category": "comparison",
+    "type": "comparison",
+    "output": "I don't have specific recipes for a Falafel Wrap or a Hummus Wrap to compare. However, I can tell you that a Falafel Wrap typically includes falafel balls (made from ground chickpeas, herbs, and spices), while a Hummus Wrap is often filled with hummus (a spread made from blended chickpeas, tahini, lemon juice, and garlic) along with various vegetables. \n\nIf you're looking for recipes for either wrap, I can help you find that!",
+    "execution_time": 3.67,
+    "tokens": {
+      "input_tokens": 237,
+      "output_tokens": 100,
+      "total_tokens": 337
+    },
+    "cost": 9.6e-05
+  }
+]
